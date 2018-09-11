@@ -1,5 +1,53 @@
 ***
-[_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. To be published in ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](papers/bib/masai2017evaluation.bib). 
+[_Anyorbit: orbital navigation in virtual environments with eye-tracking_](/papers/pdf/outram2018anyorbit.pdf). Outram, Benjamin I and Pai, Yun Suen and Person, Tanner and Minamizawa, Kouta and Kunze, Kai. Proceedings of the 2018 ACM Symposium on Eye Tracking Research \& Applications. 2018. [Bibtex](papers/bib/outram2018anyorbit.bib). 
+
+***
+[_VR Reading UIs: Assessing Text Parameters for Reading in VR_](/papers/pdf/dingler2018vr.pdf). Dingler, Tilman and Kunze, Kai and Outram, Benjamin. Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems. 2018. [Bibtex](papers/bib/dingler2018vr.bib). 
+
+***
+[_Pinchmove: improved accuracy of user mobility for near-field navigation in virtual environments_](/papers/pdf/pai2018pinchmove.pdf). Pai, Yun Suen and Chen, Zikun and Chan, Liwei and Isogai, Megumi and Kimata, Hideaki and Kunze, Kai. Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services. 2018. [Bibtex](papers/bib/pai2018pinchmove.bib). 
+
+***
+[_Make-a-face: a hands-free, non-intrusive device for tongue/mouth/cheek input using EMG_](/papers/pdf/nakao2018make.pdf). Nakao, Takuro and Pai, Yun Suen and Isogai, Megumi and Kimata, Hideaki and Kunze, Kai. ACM SIGGRAPH 2018 Posters. 2018. [Bibtex](papers/bib/nakao2018make.bib). 
+
+***
+[_Muscle-Wire Glove: Pressure-Based Haptic Interface_](/papers/pdf/caremel2018muscle.pdf). Caremel, Cedric and Liu, Gemma and Chernyshov, George and Kunze, Kai. Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion. 2018. [Bibtex](papers/bib/caremel2018muscle.bib). 
+
+***
+[_Wearable Aura: Interactive Personal Projection to Bring People Closer_](/papers/pdf/lugaresi2018wearable.pdf). Lugaresi, Laura and Lin, Kaiyuan and Zheng, Dingding. Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems. 2018. [Bibtex](papers/bib/lugaresi2018wearable.bib). 
+
+***
+[_Wearable aura: an interactive projection on personal space to enhance communication_](/papers/pdf/zheng2017wearable.pdf). Zheng, Dingding and Lugaresi, Laura and Chernyshov, George and Tag, Benjamin and Inakage, Masa and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](papers/bib/zheng2017wearable.bib). 
+
+***
+[_Dubhap: a sensory substitution based superhuman sport_](/papers/pdf/chernyshov2018dubhap.pdf). Chernyshov, George and Ragozin, Kirill and Chen, Jiajun and Kunze, Kai. Proceedings of the First Superhuman Sports Design Challenge: First International Symposium on Amplifying Capabilities and Competing in Mixed Realities. 2018. [Bibtex](papers/bib/chernyshov2018dubhap.bib). 
+
+***
+[_Bubble jumper: enhancing the traditional japanese sport sumo with physical augmentation_](/papers/pdf/ando2018bubble.pdf). Ando, Ryoichi and Ando, Akihiro and Kunze, Kai and Minamizawa, Kouta. Proceedings of the First Superhuman Sports Design Challenge: First International Symposium on Amplifying Capabilities and Competing in Mixed Realities. 2018. [Bibtex](papers/bib/ando2018bubble.bib). 
+
+***
+[_Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck_](/papers/pdf/shen2018unconstrained.pdf). Shen, Lichao and Saraji, Mhd Yamen and Kunze, Kai and Minamizawa, Kouta. Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](papers/bib/shen2018unconstrained.bib). 
+
+***
+[_Towards Enhancing Emotional Responses to Media using Auto-Calibrating Electric Muscle Stimulation (EMS)_](/papers/pdf/goto2018towards.pdf). Goto, Takashi and Tag, Benjamin and Kunze, Kai and Dingler, Tilman. Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](papers/bib/goto2018towards.bib). 
+
+***
+[_Automated data gathering and training tool for personalized" Itchy Nose"_](/papers/pdf/yeo2018automated.pdf). Yeo, Hui Shyong and Starner, Thad and Quigley, Aaron John and Kunze, Kai and Woo, Woontack and others. AH'18 Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](papers/bib/yeo2018automated.bib). 
+
+***
+[_Quantified reading and learning for sharing experiences_](/papers/pdf/kise2017quantified.pdf). Kise, Koichi and Augereau, Olivier and Utsumi, Yuzuko and Iwamura, Masakazu and Kunze, Kai and Ishimaru, Shoya and Dengel, Andreas. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](papers/bib/kise2017quantified.bib). 
+
+***
+[_Towards reading trackers in the wild: detecting reading activities by EOG glasses and deep neural networks_](/papers/pdf/ishimaru2017towards.pdf). Ishimaru, Shoya and Hoshika, Kensuke and Kunze, Kai and Kise, Koichi and Dengel, Andreas. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2017. [Bibtex](papers/bib/ishimaru2017towards.bib). 
+
+***
+[_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](papers/bib/masai2017evaluation.bib). 
+
+***
+[_Armswing: using arm swings for accessible and immersive navigation in AR/VR spaces_](/papers/pdf/pai2017armswing.pdf). Pai, Yun Suen and Kunze, Kai. Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia. 2017. [Bibtex](papers/bib/pai2017armswing.bib). 
+
+***
+[_EMS icons: conveying information by analogy to enhance communication through electrical muscle stimulation_](/papers/pdf/dingler2017ems.pdf). Dingler, Tilman and Goto, Takashi and Tag, Benjamin and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](papers/bib/dingler2017ems.bib). 
 
 ***
 [_atmoSphere: designing cross-modal music experiences using spatial audio with haptic feedback_](/papers/pdf/fushimi2017atmosphere.pdf). Fushimi, Haruna and Kato, Daiya and Kamiyama, Youichi and Yanagihara, Kazuya and Minamizawa, Kouta and Kunze, Kai. ACM SIGGRAPH 2017 Emerging Technologies. 2017. [Bibtex](papers/bib/fushimi2017atmosphere.bib). 
@@ -15,6 +63,15 @@
 
 ***
 [_Open Smart Eyewear: From Sensing to Human Amplification and Scaffolding Technologies_](/papers/pdf/kunze2017open.pdf). Kunze, Kai. Ubiquitous Virtual Reality (ISUVR), 2017 International Symposium on. 2017. [Bibtex](papers/bib/kunze2017open.bib). 
+
+***
+[_Eyewear to Make Me Smile: Can Electric Muscle Stimulation increase Happiness?_](/papers/pdf/yen2017eyewear.pdf). Yen-Chin, Lai and Feng, YuanLing and Kunze, Kai and Shimizu, Junich and Nakao, Takuro. Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction. 2017. [Bibtex](papers/bib/yen2017eyewear.bib). 
+
+***
+[_Towards interactive mindfulness training using breathing based feedback_](/papers/pdf/pisa2017towards.pdf). Pisa, Andrea M and Chernyshov, George and Nassou, Andriana F and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](papers/bib/pisa2017towards.bib). 
+
+***
+[_Facial thermography for attention tracking on smart eyewear: An initial study_](/papers/pdf/tag2017facial.pdf). Tag, Benjamin and Mannschreck, Ryan and Sugiura, Kazunori and Chernyshov, George and Ohta, Naohisa and Kunze, Kai. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2017. [Bibtex](papers/bib/tag2017facial.bib). 
 
 ***
 [_Eyewear computers for human-computer interaction_](/papers/pdf/bulling2016eyewear.pdf). Bulling, Andreas and Kunze, Kai. interactions 23, 3. 2016. [Bibtex](papers/bib/bulling2016eyewear.bib). 
