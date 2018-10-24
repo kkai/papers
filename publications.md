@@ -1,4 +1,13 @@
 ***
+[_MetaArms: Body Remapping Using Feet-Controlled Artificial Arms_](/papers/pdf/saraiji2018metaarms.pdf). Saraiji, MHD Yamen and Sasaki, Tomoya and Kunze, Kai and Minamizawa, Kouta and Inami, Masahiko. The 31st Annual ACM Symposium on User Interface Software and Technology. 2018. [Bibtex](papers/bib/saraiji2018metaarms.bib). 
+
+***
+[_Artificial Motion Guidance: An Intuitive Device Based on Pneumatic Gel Muscle (PGM)_](/papers/pdf/goto2018artificial.pdf). Goto, Takashi and Das, Swagata and Kurita, Yuichi and Kunze, Kai. The 31st Annual ACM Symposium on User Interface Software and Technology Adjunct Proceedings. 2018. [Bibtex](papers/bib/goto2018artificial.bib). 
+
+***
+[_Shape Memory Alloy Wire Actuators for Soft, Wearable Haptic Devices_](/papers/pdf/chernyshov2018shape.pdf). Chernyshov, George and Tag, Benjamin and Caremel, Cedric and Cao, Feier and Liu, Gemma and Kunze, Kai. Proceedings of the 2018 ACM International Symposium on Wearable Computers. 2018. [Bibtex](papers/bib/chernyshov2018shape.bib). 
+
+***
 [_Anyorbit: orbital navigation in virtual environments with eye-tracking_](/papers/pdf/outram2018anyorbit.pdf). Outram, Benjamin I and Pai, Yun Suen and Person, Tanner and Minamizawa, Kouta and Kunze, Kai. Proceedings of the 2018 ACM Symposium on Eye Tracking Research \& Applications. 2018. [Bibtex](papers/bib/outram2018anyorbit.bib). 
 
 ***
