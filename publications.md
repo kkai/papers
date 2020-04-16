@@ -14,7 +14,7 @@
 [_Eyewear 2019: third workshop on eyewear computing-focus: social interactions_](/papers/pdf/tag2019eyewear.pdf). author. Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. 2019. [Bibtex](papers/bib/tag2019eyewear.bib). 
 
 ***
-_Blink as you sync: uncovering eye and nod synchrony in conversation using wearable sensing_. author. Proceedings of the 23rd International Symposium on Wearable Computers. 2019. [Bibtex](papers/bib/gupta2019blink.bib). 
+[_Blink as you sync: uncovering eye and nod synchrony in conversation using wearable sensing_](/papers/pdf/gupta2019blink.pdf). author. Proceedings of the 23rd International Symposium on Wearable Computers. 2019. [Bibtex](papers/bib/gupta2019blink.bib). 
 
 ***
 [_Mapping Natural Facial Expressions Using Unsupervised Learning and Optical Sensors on Smart Eyewear_](/papers/pdf/masai2018mapping.pdf). author. Proceedings of the 2018 ACM International Sympposium on Wearable Computers. 2018. [Bibtex](papers/bib/masai2018mapping.bib). 
