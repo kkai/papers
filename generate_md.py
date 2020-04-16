@@ -24,12 +24,17 @@ for key, value in bib_sorted:
     #    pdf.format = 'png'
     #    pdf.save(filename='./pics/'+key+'.png')
     if bib_data.entries[key].type == 'inproceedings':
+        print(key)
         if(os.path.isfile(pdf_fname)):
             print(value.fields['title'])
             f.write(str('***\n[_'+value.fields['title']+'_](/papers/pdf/'+str(key)+'.pdf). '))
         else:
             f.write('***\n_'+value.fields['title']+'_. ')
-        f.write(value.fields['author']+'. ')
+        authors = ""
+        for i in value.persons:
+            authors += str(i) + " and "
+        f.write(authors[0:-5])
+        f.write('. ')
         f.write(value.fields['booktitle']+'. ')
         f.write(value.fields['year']+'. ')
         f.write('[Bibtex](papers/bib/'+key+'.bib). ')
