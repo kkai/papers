@@ -31,7 +31,7 @@ for key, value in bib_sorted:
         else:
             f.write('***\n_'+value.fields['title']+'_. ')
         authors = ""
-        for i in value.persons:
+        for i in value.persons[u"Author"]:
             authors += str(i) + " and "
         f.write(authors[0:-5])
         f.write('. ')
