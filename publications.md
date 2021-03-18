@@ -1,5 +1,47 @@
 ***
+[_Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities_](/papers/pdf/sugawa2021boiling.pdf). Sugawa, Moe and Furukawa, Taichi and Chernyshov, George and Hynds, Danny and Han, Jiawen and Padovani, Marcelo and Zheng, Dingding and Marky, Karola and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2021. [Bibtex](papers/bib/sugawa2021boiling.bib). 
+
+***
+[_Visuomotor Influence of Attached Robotic Neck Augmentation_](/papers/pdf/shen2020visuomotor.pdf). Shen, Lichao and Saraiji, MHD Yamen and Kunze, Kai and Minamizawa, Kouta and Peiris, Roshan Lalintha. Symposium on Spatial User Interaction. 2020. [Bibtex](papers/bib/shen2020visuomotor.bib). 
+
+***
+[_FingerFlex: Shape Memory Alloy-based Actuation on Fingers for Kinesthetic Haptic Feedback_](/papers/pdf/nakao2020fingerflex.pdf). Nakao, Takuro and Kunze, Kai and Isogai, Megumi and Shimizu, Shinya and Pai, Yun Suen. 19th International Conference on Mobile and Ubiquitous Multimedia. 2020. [Bibtex](papers/bib/nakao2020fingerflex.bib). 
+
+***
+[_Face Commands-User-Defined Facial Gestures for Smart Glasses_](/papers/pdf/masai2020face.pdf). Masai, Katsutoshi and Kunze, Kai and Sakamoto, Daisuke and Sugiura, Yuta and Sugimoto, Maki. 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). 2020. [Bibtex](papers/bib/masai2020face.bib). 
+
+***
+[_Multiplex Vision: Understanding Information Transfer and F-Formation With Extended 2-Way FOV_](/papers/pdf/armstrong2020multiplex.pdf). Armstrong, Mark and Tsuchiya, Keitaro and Liang, Feng and Kunze, Kai and Pai, Yun Suen. 26th ACM Symposium on Virtual Reality Software and Technology. 2020. [Bibtex](papers/bib/armstrong2020multiplex.bib). 
+
+***
+[_” I don’t know how to protect myself”: Understanding Privacy Perceptions Resulting from the Presence of Bystanders in Smart Environments_](/papers/pdf/marky2020don.pdf). Marky, Karola and Voit, Alexandra and St{\"o}ver, Alina and Kunze, Kai and Schr{\"o}der, Svenja and M{\"u}hlh{\"a}user, Max. Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society. 2020. [Bibtex](papers/bib/marky2020don.bib). 
+
+***
+[_Pleasant Locomotion--Towards Reducing Cybersickness using fNIRS during Walking Events in VR_](/papers/pdf/yamamura2020pleasant.pdf). Yamamura, Hiroo and Baldauf, Holger and Kunze, Kai. Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology. 2020. [Bibtex](papers/bib/yamamura2020pleasant.bib). 
+
+***
+[_Bubble Visualization Overlay in Online Communication for Increased Speed Awareness and Better Turn Taking_](/papers/pdf/horii2020bubble.pdf). Horii, Reiya and Chandra, Yurike and Kunze, Kai and Minamizawa, Kouta. Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology. 2020. [Bibtex](papers/bib/horii2020bubble.bib). 
+
+***
+[_Sleepy watch: towards predicting daytime sleepiness based on body temperature_](/papers/pdf/bao2020sleepy.pdf). Bao, Jie and Han, Jiawen and Kato, Akira and Kunze, Kai. Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers. 2020. [Bibtex](papers/bib/bao2020sleepy.bib). 
+
+***
 [_Next Steps in Human-Computer Integration_](/papers/pdf/mueller2020next.pdf). Mueller, Florian'Floyd' and Lopes, Pedro and Strohmeier, Paul and Ju, Wendy and Seim, Caitlyn and Weigel, Martin and Nanayakkara, Suranga and Obrist, Marianna and Li, Zhuying and Delfa, Joseph and others. CHI 2020. 2020. [Bibtex](papers/bib/mueller2020next.bib). 
+
+***
+[_Motor memory in HCI_](/papers/pdf/patibanda2020motor.pdf). Patibanda, Rakesh and Semertzidis, Nathan Arthur and Scary, Michaela and La Delfa, Joseph Nathan and Andres, Josh and Bayta{\c{s}}, Mehmet Aydin and Martin-Niedecken, Anna Lisa and Strohmeier, Paul and Fruchard, Bruno and Leigh, Sang-won and others. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](papers/bib/patibanda2020motor.bib). 
+
+***
+[_MazeRunVR: An Open Benchmark for VR Locomotion Performance, Preference and Sickness in the Wild_](/papers/pdf/ragozin2020mazerunvr.pdf). Ragozin, Kirill and Kunze, Kai and Marky, Karola and Pai, Yun Suen. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](papers/bib/ragozin2020mazerunvr.bib). 
+
+***
+[_All in one! user perceptions on centralized iot privacy settings_](/papers/pdf/marky2020all.pdf). Marky, Karola and Zimmermann, Verena and St{\"o}ver, Alina and Hoffmann, Philipp and Kunze, Kai and M{\"u}hlh{\"a}user, Max. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](papers/bib/marky2020all.bib). 
+
+***
+[_Collaborative learning \& co-creation in XR_](/papers/pdf/vasilchenko2020collaborative.pdf). Vasilchenko, Anna and Li, Jie and Ryskeldiev, Bektur and Sarcar, Sayan and Ochiai, Yoichi and Kunze, Kai and Radu, Iulian. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](papers/bib/vasilchenko2020collaborative.bib). 
+
+***
+[_3D-Auth: Two-Factor Authentication with Personalized 3D-Printed Items_](/papers/pdf/marky20203d.pdf). Marky, Karola and Schmitz, Martin and Zimmermann, Verena and Herbers, Martin and Kunze, Kai and M{\"u}hlh{\"a}user, Max. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](papers/bib/marky20203d.bib). 
 
 ***
 [_Accelerating Skill Acquisition of Two-Handed Drumming using Pneumatic Artificial Muscles_](/papers/pdf/goto2020accelerating.pdf). Goto and Takashi Das, Swagata and Wolf, Katrin and Lopes, Pedro and Kurita, Yuichi and Kunze, Kai. Augmented Humans 2020. 2019. [Bibtex](papers/bib/goto2020accelerating.bib). 
