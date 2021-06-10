@@ -2,7 +2,7 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
-[_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021Investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. Accepted at ACM Transactions on Computer-Human Interaction pre-print. 2021. [Bibtex](/papers/bib/marky2021Investigating.bib). 
+[_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. Accepted at ACM Transactions on Computer-Human Interaction pre-print. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
 
 ***
 [_Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities_](/papers/pdf/sugawa2021boiling.pdf). Sugawa, Moe and Furukawa, Taichi and Chernyshov, George and Hynds, Danny and Han, Jiawen and Padovani, Marcelo and Zheng, Dingding and Marky, Karola and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2021. [Bibtex](/papers/bib/sugawa2021boiling.bib). 
