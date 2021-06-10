@@ -17,6 +17,13 @@ bib_sorted = bib_data.entries.items()
 f = open('./publications.md','w+')
 w = Writer()
 
+header = """---
+title: "Publications"
+date: 2020-04-16T12:07:18+09:00
+---"""
+
+f.write(header)
+
 for key, value in bib_sorted:
     pdf_fname = './pdf/'+key+'.pdf'
     #if(os.path.isfile(pdf_fname)):
@@ -37,7 +44,7 @@ for key, value in bib_sorted:
         f.write('. ')
         f.write(value.fields['booktitle']+'. ')
         f.write(value.fields['year']+'. ')
-        f.write('[Bibtex](papers/bib/'+key+'.bib). ')
+        f.write('[Bibtex](/papers/bib/'+key+'.bib). ')
         f.write('\n\n')
     #print value.fields['year']
     #print value.fields['author']
