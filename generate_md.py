@@ -30,11 +30,13 @@ for key, value in bib_sorted:
     #    pdf = Image(filename=pdf_fname)
     #    pdf.format = 'png'
     #    pdf.save(filename='./pics/'+key+'.png')
-    if bib_data.entries[key].type == 'inproceedings':
+    if bib_data.entries[key].type == 'article':
         print(key)
 
+    if bib_data.entries[key].type == 'inproceedings':
+
         if(os.path.isfile(pdf_fname)):
-            print(value.fields['title'])
+            #print(value.fields['title'])
             f.write(str('***\n[_'+value.fields['title']+'_](/papers/pdf/'+str(key)+'.pdf). '))
         else:
             f.write('***\n_'+value.fields['title']+'_. ')

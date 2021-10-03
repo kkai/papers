@@ -2,6 +2,9 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset_](/papers/pdf/pai2021napwell.pdf). Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. [Bibtex](/papers/bib/pai2021napwell.bib). 
+
+***
 [_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. Accepted at ACM Transactions on Computer-Human Interaction pre-print. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
 
 ***
@@ -62,6 +65,9 @@ date: 2020-04-16T12:07:18+09:00
 [_Eyewear 2019: third workshop on eyewear computing-focus: social interactions_](/papers/pdf/tag2019eyewear.pdf). Tag, Benjamin and Ward, Jamie A and Uema, Yuji and Kunze, Kai. Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. 2019. [Bibtex](/papers/bib/tag2019eyewear.bib). 
 
 ***
+[_ISWC 2018: Towards Smarter Wearable Technologies That Blend With Our Bodies_](/papers/pdf/peiris2019iswc.pdf). Peiris, Roshan and Starner, Thad and Beigl, Michael and Kunze, Kai. IEEE Pervasive Computing. 2019. [Bibtex](/papers/bib/peiris2019iswc.bib). 
+
+***
 [_Blink as you sync: uncovering eye and nod synchrony in conversation using wearable sensing_](/papers/pdf/gupta2019blink.pdf). Gupta, Aman and Strivens, Finn L and Tag, Benjamin and Kunze, Kai and Ward, Jamie A. Proceedings of the 23rd International Symposium on Wearable Computers. 2019. [Bibtex](/papers/bib/gupta2019blink.bib). 
 
 ***
@@ -75,6 +81,9 @@ date: 2020-04-16T12:07:18+09:00
 
 ***
 [_Eyewear 2018: Second workshop on eyewear computing_](/papers/pdf/tag2018eyewear.pdf). Tag, Benjamin and Holz, Christian and Lukowicz, Paul and Augereau, Olivier and Uema, Yuji and Kunze, Kai. UbiComp 2018 Adjunct Proceedings. 2018. [Bibtex](/papers/bib/tag2018eyewear.bib). 
+
+***
+[_Wordometer Systems for Everyday Life_](/papers/pdf/augereau2018wordometer.pdf). Augereau, Olivier and Sanches, Charles Lima and Kise, Koichi and Kunze, Kai. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2018. [Bibtex](/papers/bib/augereau2018wordometer.bib). 
 
 ***
 [_Shape Memory Alloy Wire Actuators for Soft, Wearable Haptic Devices_](/papers/pdf/chernyshov2018shape.pdf). Chernyshov, George and Tag, Benjamin and Caremel, Cedric and Cao, Feier and Liu, Gemma and Kunze, Kai. Proceedings of the 2018 ACM International Symposium on Wearable Computers. 2018. [Bibtex](/papers/bib/chernyshov2018shape.bib). 
@@ -114,6 +123,9 @@ date: 2020-04-16T12:07:18+09:00
 
 ***
 [_Automated data gathering and training tool for personalized" Itchy Nose"_](/papers/pdf/yeo2018automated.pdf). Yeo, Hui Shyong and Starner, Thad and Quigley, Aaron John and Kunze, Kai and Woo, Woontack and others. AH'18 Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](/papers/bib/yeo2018automated.bib). 
+
+***
+[_Superhuman sports: applying human augmentation to physical exercise_](/papers/pdf/kunze2017superhuman.pdf). Kunze, Kai and Minamizawa, Kouta and Lukosch, Stephan and Inami, Masahiko and Rekimoto, Jun. IEEE Pervasive Computing. 2017. [Bibtex](/papers/bib/kunze2017superhuman.bib). 
 
 ***
 [_Quantified reading and learning for sharing experiences_](/papers/pdf/kise2017quantified.pdf). Kise, Koichi and Augereau, Olivier and Utsumi, Yuzuko and Iwamura, Masakazu and Kunze, Kai and Ishimaru, Shoya and Dengel, Andreas. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/kise2017quantified.bib). 
