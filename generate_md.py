@@ -32,6 +32,7 @@ for key, value in bib_sorted:
     #    pdf.save(filename='./pics/'+key+'.png')
     if bib_data.entries[key].type == 'inproceedings':
         print(key)
+
         if(os.path.isfile(pdf_fname)):
             print(value.fields['title'])
             f.write(str('***\n[_'+value.fields['title']+'_](/papers/pdf/'+str(key)+'.pdf). '))
