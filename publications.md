@@ -5,7 +5,46 @@ date: 2020-04-16T12:07:18+09:00
 [_NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset_](/papers/pdf/pai2021napwell.pdf). Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. [Bibtex](/papers/bib/pai2021napwell.bib). 
 
 ***
-[_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. Accepted at ACM Transactions on Computer-Human Interaction pre-print. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
+[_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
+
+***
+[_SIGHInt: Special Interest Group for Human-Computer Integration_](/papers/pdf/semertzidis2021sighint.pdf). Semertzidis, Nathan Arthur and Scary, Michaela and Fang, Xiao and Wang, Xinyi and Patibanda, Rakesh and Andres, Josh and Strohmeier, Paul and Kunze, Kai and Lopes, Pedro and Zambetta, Fabio and others. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/semertzidis2021sighint.bib). 
+
+***
+[_Boiling Mind-A Dataset of Physiological Signals during an Exploratory Dance Performance_](/papers/pdf/fu2021boiling.pdf). Fu, Zhuoqi and Han, Jiawen and Zheng, Dingding and Sugawa, Moe and Furukawa, Taichi and George, Chernyshov and Danny, Hynds and Marcelo, Padovani and Karola, Marky and Minamizawa, Kouta and others. Augmented Humans Conference 2021. 2021. [Bibtex](/papers/bib/fu2021boiling.bib). 
+
+***
+[_Body As Starting Point 4: Inbodied Interaction Design for Health Ownership._](/papers/pdf/schraefel2021body.pdf). Schraefel, MC and Andr{\'e}s, Josh and Tabor, Aaron and Bateman, Scott and Wanyu Liu, Abby and Jones, Mike and Kunze, Kai and Murnane, Elizabeth and Villa, Steeven. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/schraefel2021body.bib). 
+
+***
+[_Immersive Inclusivity at CHI: Design and Creation of Inclusive User Interactions Through Immersive Media_](/papers/pdf/ryskeldiev2021immersive.pdf). Ryskeldiev, Bektur and Ochiai, Yoichi and Kusano, Koki and Li, Jie and Saraiji, Yamen and Kunze, Kai and Billinghurst, Mark and Nanayakkara, Suranga and Sugano, Yusuke and Honda, Tatsuya. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/ryskeldiev2021immersive.bib). 
+
+***
+[_JINSense: Repurposing Electrooculography Sensors on Smart Glass for Midair Gesture and Context Sensing_](/papers/pdf/yeo2021jinsense.pdf). Yeo, Hui-Shyong and Lee, Juyoung and Woo, Woontack and Koike, Hideki and Quigley, Aaron J and Kunze, Kai. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/yeo2021jinsense.bib). 
+
+***
+[_Haptic Empathy: Conveying Emotional Meaning through Vibrotactile Feedback_](/papers/pdf/ju2021haptic.pdf). Ju, Yulan and Zheng, Dingding and Hynds, Danny and Chernyshov, George and Kunze, Kai and Minamizawa, Kouta. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/ju2021haptic.bib). 
+
+***
+[_Tranquillity at Home: Designing Plant-mediated Interaction for Fatigue Assessment_](/papers/pdf/kanda2021tranquillity.pdf). Kanda, Michi and Kunze, Kai. Augmented Humans Conference 2021. 2021. [Bibtex](/papers/bib/kanda2021tranquillity.bib). 
+
+***
+[_HemodynamicVR-Adapting the User’s Field Of View during Virtual Reality Locomotion Tasks to Reduce Cybersickness using Wearable Functional Near-Infrared Spectroscopy_](/papers/pdf/yamamura2021hemodynamicvr.pdf). Yamamura, Hiroo and Baldauf, Holger and Kunze, Kai. Augmented Humans Conference 2021. 2021. [Bibtex](/papers/bib/yamamura2021hemodynamicvr.bib). 
+
+***
+[_25 Years of ISWC_](/papers/pdf/martin202125.pdf). Martin, Tom and Starner, Thad and Siewiorek, Dan and Kunze, Kai and Van Laerhoven, Kristof. IEEE Pervasive Computing. 2021. [Bibtex](/papers/bib/martin202125.bib). 
+
+***
+[_Tunnel Vision--Dynamic Peripheral Vision Blocking Glasses for Reducing Motion Sickness Symptoms_](/papers/pdf/zhang2021tunnel.pdf). Zhang, Qing and Yamamura, Hiroo and Baldauf, Holger and Zheng, Dingding and Chen, Kanyu and Yamaoka, Junichi and Kunze, Kai. 2021 International Symposium on Wearable Computers. 2021. [Bibtex](/papers/bib/zhang2021tunnel.bib). 
+
+***
+[_Eyewear 2021 The Forth Workshop on Eyewear Computing--Augmenting Social Situations and Democratizing Tools_](/papers/pdf/ragozin2021eyewear.pdf). Ragozin, Kirill and Kunze, Kai and Hirzle, Teresa and Tag, Benjamin and Uema, Yuji and Rukzio, Enrico and Ward, Jamie A. Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers. 2021. [Bibtex](/papers/bib/ragozin2021eyewear.bib). 
+
+***
+[_Poster: A Participatory Workshop to Design Vibrothermal Haptics of a Smart Fidget Surface for Remote Workers_](/papers/pdf/lee2021poster.pdf). Lee, Yuyu and Kunze, Kai. Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers. 2021. [Bibtex](/papers/bib/lee2021poster.bib). 
+
+***
+[_Using Smart Eyewear to Sense Electrodermal Activity While Reading_](/papers/pdf/kim2021using.pdf). Kim, Christopher Changmok and Han, Jiawen and Zheng, Dingding and Chernyshov, George and Kunze, Kai. Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers. 2021. [Bibtex](/papers/bib/kim2021using.bib). 
 
 ***
 [_Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities_](/papers/pdf/sugawa2021boiling.pdf). Sugawa, Moe and Furukawa, Taichi and Chernyshov, George and Hynds, Danny and Han, Jiawen and Padovani, Marcelo and Zheng, Dingding and Marky, Karola and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2021. [Bibtex](/papers/bib/sugawa2021boiling.bib). 
