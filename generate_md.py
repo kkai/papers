@@ -5,7 +5,7 @@ import os.path
 import pybtex
 from pybtex.database.output.bibtex import Writer;
 
-from wand.image import Image
+# from wand.image import Image
 
 cite_file ='citations.bib'
 

@@ -2,10 +2,46 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/han2022linking.bib). 
+
+***
+[_Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances_](/papers/pdf/he2022frisson.pdf). He, Yan and Chernyshov, George and Han, Jiawen and Zheng, Dingding and Thomsen, Ragnar and Hynds, Danny and Liu, Muyu and Yang, Yuehui and Ju, Yulan and Pai, Yun Suen and others. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2022. [Bibtex](/papers/bib/he2022frisson.bib). 
+
+***
+[_” Nah, it’s just annoying!” A Deep Dive into User Perceptions of Two-Factor Authentication_](/papers/pdf/marky2022nah.pdf). Marky, Karola and Ragozin, Kirill and Chernyshov, George and Matviienko, Andrii and Schmitz, Martin and M{\"u}hlh{\"a}user, Max and Eghtebas, Chloe and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/marky2022nah.bib). 
+
+***
+[_Emolleia--Wearable Kinetic Flower Display for Expressing Emotions_](/papers/pdf/zhuang2022emolleia.pdf). Zhuang, Yifan and Tsuchiya, Keitaro and Nakao, Takuro and Han, Jiawen and Isoga, Megumi and Shimizu, Shinya and Kunze, Kai. Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2022. [Bibtex](/papers/bib/zhuang2022emolleia.bib). 
+
+***
+[_Ethereal Phenomena-Interactive Art, Meditation, and Breathing Biofeedback: From Mind and Body Wellness Towards Self-Transcendence_](/papers/pdf/malaver2022ethereal.pdf). Malaver Turbay, Silvana and Segrovets, Igor Igorevich and Chernyshov, George and Han, Jiawen and Kim, Christopher Changmok and Kunze, Kai. Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2022. [Bibtex](/papers/bib/malaver2022ethereal.bib). 
+
+***
+[_Towards Applying Pneumatic Gel Muscles to Augment Plantar Flexor Muscle Stretching for Children with Cerebral Palsy_](/papers/pdf/chen2022towards.pdf). Chen, Zilan and Wang, Sujuan and Das, Swagata and Kurita, Yuichi and Goto, Takashi and Zhai, Chun and Xu, Lei and Kunze, Kai. Augmented Humans 2022. 2022. [Bibtex](/papers/bib/chen2022towards.bib). 
+
+***
+[_Toolkits \& Wearables: Developing Toolkits for Exploring Wearable Designs_](/papers/pdf/genc2022toolkits.pdf). Genc, Caglar and Buruk, Oguz'Oz and Jabari, Shiva and Jones, Lee and Ragozin, Kirill and Hartman, Kate and Virkki, Johanna and Kunze, Kai and Juhlin, Oskar and H{\"a}kkil{\"a}, Jonna. CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. [Bibtex](/papers/bib/genc2022toolkits.bib). 
+
+***
+[_GazeSync: Eye Movement Transfer Using an Optical Eye Tracker and Monochrome Liquid Crystal Displays_](/papers/pdf/zhang2022gazesync.pdf). Zhang, Qing and Huang, Yifei and Chernyshov, George and Li, Juling and Pai, Yun Suen and Kunze, Kai. 27th International Conference on Intelligent User Interfaces. 2022. [Bibtex](/papers/bib/zhang2022gazesync.bib). 
+
+***
+[_ThermalDrive-Towards Situation Awareness over Thermal Feedback in Automated Driving Scenarios_](/papers/pdf/meng2022thermaldrive.pdf). Meng, Xiaru and Han, Jiawen and Chernyshov, George and Ragozin, Kirill and Kunze, Kai. 27th International Conference on Intelligent User Interfaces. 2022. [Bibtex](/papers/bib/meng2022thermaldrive.bib). 
+
+***
 [_NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset_](/papers/pdf/pai2021napwell.pdf). Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. [Bibtex](/papers/bib/pai2021napwell.bib). 
 
 ***
 [_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
+
+***
+[_Affective Umbrella--Towards a Novel Sensor Integrated Multimedia Platform Using Electrodermal and Heart Activity in an Umbrella Handle_](/papers/pdf/chen2021affective.pdf). Chen, Kanyu and Han, Jiawen and Chernyshov, George and Kim, Christopher and Rasa, Ismael and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/chen2021affective.bib). 
+
+***
+[_Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning_](/papers/pdf/han2021exploring.pdf). Han, Jiawen and Yang, Chi-Lan and Chernyshov, George and Fu, Zhuoqi and Horii, Reiya and Narumi, Takuji and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/han2021exploring.bib). 
+
+***
+[_ThermoQuest-A Wearable Head Mounted Display to Augment Realities with Thermal Feedback_](/papers/pdf/ragozin2021thermoquest.pdf). Ragozin, Kirill and Meng, Xiaru and Lalintha Peiris, Roshan and Wolf, Katrin and Chernyshov, George and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/ragozin2021thermoquest.bib). 
 
 ***
 [_SIGHInt: Special Interest Group for Human-Computer Integration_](/papers/pdf/semertzidis2021sighint.pdf). Semertzidis, Nathan Arthur and Scary, Michaela and Fang, Xiao and Wang, Xinyi and Patibanda, Rakesh and Andres, Josh and Strohmeier, Paul and Kunze, Kai and Lopes, Pedro and Zambetta, Fabio and others. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/semertzidis2021sighint.bib). 
