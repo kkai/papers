@@ -2,6 +2,21 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib). 
+
+***
+_Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment_. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022seeing.bib). 
+
+***
+_Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and others. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
+
+***
+_Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joelle and Billinghurst, Mark and Kunze, Kai and Li, Jie and Williamson, Julie. 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2022. [Bibtex](/papers/bib/ryskeldiev2022design.bib). 
+
+***
+[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib). 
+
+***
 [_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/han2022linking.bib). 
 
 ***
