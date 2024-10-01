@@ -2,6 +2,7 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+<<<<<<< HEAD
 [_" Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib). 
 
 ***
@@ -57,6 +58,9 @@ date: 2020-04-16T12:07:18+09:00
 
 ***
 [_First Bite/Chew: distinguish typical allergic food by two IMUs_](/papers/pdf/li2023first.pdf). Li, Juling and Wang, Xiongqi and Chen, Junyu and Starner, Thad and Chernyshov, George and Huang, Jing and Huang, Yifei and Kunze, Kai and Zhang, Qing. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/li2023first.bib). 
+=======
+[_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib). 
+>>>>>>> 71aff0f4a4ce172f18501159864027b6529ad955
 
 ***
 _Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment_. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022seeing.bib). 
@@ -68,6 +72,12 @@ _Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qin
 _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joelle and Billinghurst, Mark and Kunze, Kai and Li, Jie and Williamson, Julie. 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2022. [Bibtex](/papers/bib/ryskeldiev2022design.bib). 
 
 ***
+<<<<<<< HEAD
+=======
+[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib). 
+
+***
+>>>>>>> 71aff0f4a4ce172f18501159864027b6529ad955
 [_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/han2022linking.bib). 
 
 ***
