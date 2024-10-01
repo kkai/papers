@@ -2,6 +2,72 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_" Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib). 
+
+***
+[_Innermost echoes: Integrating real-time physiology into live music performances_](/papers/pdf/hynds2024innermost.pdf). Hynds, Danny and Chernyshov, George and Zheng, Dingding and Uyama, Aoi and Li, Juling and Matsumoto, Kozue and Pogorzhelskiy, Michael and Kunze, Kai and Ward, Jamie A and Minamizawa, Kouta. Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2024. [Bibtex](/papers/bib/hynds2024innermost.bib). 
+
+***
+[_Cross-Reality Attention Guidance on the Light Field Display_](/papers/pdf/zhang2024cross.pdf). Zhang, Chuyang and Kunze, Kai. 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). 2024. [Bibtex](/papers/bib/zhang2024cross.bib). 
+
+***
+[_mobiCHAI-1st International Workshop on Mobile Cognition-Altering Technologies (CAT) using Human-Centered AI_](/papers/pdf/elagroudy2024mobichai.pdf). ElAgroudy, Passant and Gruenerbl, Agnes and Barbareschi, Giulia and Spilski, Jan and Kunze, Kai and Lachmann, Thomas and Lukowicz, Paul. Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction. 2024. [Bibtex](/papers/bib/elagroudy2024mobichai.bib). 
+
+***
+[_Detecting an Offset-Adjusted Similarity Score based on Duchenne Smiles_](/papers/pdf/henneberg2023detecting.pdf). Henneberg, Maximilian and Eghtebas, Chloe and De Candido, Oliver and Kunze, Kai and Ward, Jamie A. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/henneberg2023detecting.bib). 
+
+***
+[_“I am both here and there” Parallel Control of Multiple Robotic Avatars by Disabled Workers in a Caf{\'e}_](/papers/pdf/barbareschi2023both.pdf). Barbareschi, Giulia and Kawaguchi, Midori and Kato, Hiroaki and Nagahiro, Masato and Takeuchi, Kazuaki and Shiiba, Yoshifumi and Kasahara, Shunichi and Kunze, Kai and Minamizawa, Kouta. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/barbareschi2023both.bib). 
+
+***
+[_First Bite/Chew: distinguish different types of food by first biting/chewing and the corresponding hand movement_](/papers/pdf/chen2023first.pdf). Chen, Junyu and Wang, Xiongqi and Li, Juling and Chernyshov, George and Huang, Yifei and Kunze, Kai and Huang, Jing and Starner, Thad and Zhang, Qing. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/chen2023first.bib). 
+
+***
+[_Exploring the Design Space of Assistive Augmentation_](/papers/pdf/nanayakkara2023exploring.pdf). Nanayakkara, Suranga Chandima and Inami, Masahiko and Mueller, Florian and Huber, Jochen and Gupta, Chitralekha and Jouffrais, Christophe and Kunze, Kai and Patibanda, Rakesh and Chan, Samantha WT and Messerschmidt, Moritz Alexander. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/nanayakkara2023exploring.bib). 
+
+***
+[_Towards Embodying Emotions in Play with Neurodivergent Children using Haptic Technologies_](/papers/pdf/ju2023towards.pdf). Ju, Yulan and Shibasaki, Mina and Kim, Christopher Changmok and Kunze, Kai and Minamizawa, Kouta. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/ju2023towards.bib). 
+
+***
+[_Exploring Digital Embodiment in Wheelchair Dance with Generative AI_](/papers/pdf/xie2023exploring.pdf). Xie, Yurui and Barbareschi, Giulia and Kunze, Kai and Inakage, Masa. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/xie2023exploring.bib). 
+
+***
+[_Affective Umbrella--A Wearable System to Visualize Heart and Electrodermal Activity, towards Emotion Regulation through Somaesthetic Appreciation_](/papers/pdf/chen2023affective.pdf). Chen, Kanyu and Han, Jiawen and Baldauf, Holger and Wang, Ziyue and Chen, Dunya and Kato, Akira and Ward, Jamie A and Kunze, Kai. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/chen2023affective.bib). 
+
+***
+[_Feel What You Don’t Hear: A New Framework for Non-Aural Music Experiences_](/papers/pdf/uyama2023feel.pdf). Uyama, Aoi and Hynds, Danny and Zheng, Dingding and Chernyshov, George and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the International Conference on New Interfaces for Musical Expression. 2023. [Bibtex](/papers/bib/uyama2023feel.bib). 
+
+***
+[_Inner self drawing machine._](/papers/pdf/zhang2022inner.pdf). Zhang, Qing and Xie, Fan and Huang, Yifei and Pai, Yun Suen and Chernyshov, George and Huang, Jing and Wang, Xiongqi and Ward, Jamie A and Kunze, Kai. SIGGRAPH Asia Art Gallery. 2022. [Bibtex](/papers/bib/zhang2022inner.bib). 
+
+***
+[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib). 
+
+***
+[_Phantom Undulations: Remote Physiological Sensing in Abstract Installation Works_](/papers/pdf/hynds2023phantom.pdf). Hynds, Danny and Zheng, Dingding and Zhang, Yilin and Ma, Hua and Ragozin, Kirill and Chernyshov, George and Ward, Jamie A and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/hynds2023phantom.bib). 
+
+***
+[_Ubicomp Tutorial-UbiCHAI-Experimental Methodologies for Cognitive Human Augmentation_](/papers/pdf/grunerbl2023ubicomp.pdf). Gr{\"u}nerbl, Agnes and Kunze, Kai and Lachmann, Thomas and Ward, Jamie A and Lukowicz, Paul. Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing \& the 2023 ACM International Symposium on Wearable Computing. 2023. [Bibtex](/papers/bib/grunerbl2023ubicomp.bib). 
+
+***
+[_Soma Express Kit: Understanding the Somaesthetic Experience of People with Visual Impairment: Soma Express Kit_](/papers/pdf/kanda2023soma.pdf). Kanda, Michi and Kunze, Kai. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/kanda2023soma.bib). 
+
+***
+[_iOT device design for rapid detection of Alzheimer inducing P. gingivalis bacteria_](/papers/pdf/szyszka2023iot.pdf). Szyszka, Ewa and Yi, Yiejun and Lee, Yekyung and Lee, Katrina and Kunze, Kai. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/szyszka2023iot.bib). 
+
+***
+[_First Bite/Chew: distinguish typical allergic food by two IMUs_](/papers/pdf/li2023first.pdf). Li, Juling and Wang, Xiongqi and Chen, Junyu and Starner, Thad and Chernyshov, George and Huang, Jing and Huang, Yifei and Kunze, Kai and Zhang, Qing. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/li2023first.bib). 
+
+***
+_Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment_. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022seeing.bib). 
+
+***
+_Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and others. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
+
+***
+_Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joelle and Billinghurst, Mark and Kunze, Kai and Li, Jie and Williamson, Julie. 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2022. [Bibtex](/papers/bib/ryskeldiev2022design.bib). 
+
+***
 [_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/han2022linking.bib). 
 
 ***
