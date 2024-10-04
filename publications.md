@@ -41,7 +41,7 @@ date: 2020-04-16T12:07:18+09:00
 [_Inner self drawing machine._](/papers/pdf/zhang2022inner.pdf). Zhang, Qing and Xie, Fan and Huang, Yifei and Pai, Yun Suen and Chernyshov, George and Huang, Jing and Wang, Xiongqi and Ward, Jamie A and Kunze, Kai. SIGGRAPH Asia Art Gallery. 2022. [Bibtex](/papers/bib/zhang2022inner.bib). 
 
 ***
-_Augmented Humans: Cyborg visions of the future_. Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib). 
+[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib). 
 
 ***
 [_Phantom Undulations: Remote Physiological Sensing in Abstract Installation Works_](/papers/pdf/hynds2023phantom.pdf). Hynds, Danny and Zheng, Dingding and Zhang, Yilin and Ma, Hua and Ragozin, Kirill and Chernyshov, George and Ward, Jamie A and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/hynds2023phantom.bib). 
