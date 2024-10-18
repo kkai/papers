@@ -62,7 +62,7 @@ date: 2020-04-16T12:07:18+09:00
 [_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib). 
 
 ***
-_Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment_. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022seeing.bib). 
+[_Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment_](/papers/pdf/zhang2022seeing.pdf). Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022seeing.bib). 
 
 ***
 _Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and others. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
@@ -101,7 +101,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset_](/papers/pdf/pai2021napwell.pdf). Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. [Bibtex](/papers/bib/pai2021napwell.bib). 
 
 ***
-[_Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
+[_Investigating Usability and User Experience of Individually Verifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2021. [Bibtex](/papers/bib/marky2021investigating.bib). 
 
 ***
 [_Affective Umbrella--Towards a Novel Sensor Integrated Multimedia Platform Using Electrodermal and Heart Activity in an Umbrella Handle_](/papers/pdf/chen2021affective.pdf). Chen, Kanyu and Han, Jiawen and Chernyshov, George and Kim, Christopher and Rasa, Ismael and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/chen2021affective.bib). 
