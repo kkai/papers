@@ -5,7 +5,7 @@ date: 2020-04-16T12:07:18+09:00
 [_" Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib).  [Mp3 summary](/audio/mp3s/barbareschi2024speech.mp3). 
 
 ***
-_OpenEarable ExG: Open-Source Hardware for Ear-Based Biopotential Sensing Applications_. Lepold, Philipp and R\"{o}ddiger, Tobias and King, Tobias and Kunze, Kai and Maurer, Christoph and Beigl, Michael. Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2024. [Bibtex](/papers/bib/Lepold2024OpenEarable.bib). 
+[_OpenEarable ExG: Open-Source Hardware for Ear-Based Biopotential Sensing Applications_](/papers/pdf/lepold2024open.pdf). Lepold, Philipp and R\"{o}ddiger, Tobias and King, Tobias and Kunze, Kai and Maurer, Christoph and Beigl, Michael. Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2024. [Bibtex](/papers/bib/lepold2024open.bib). 
 
 ***
 [_Innermost echoes: Integrating real-time physiology into live music performances_](/papers/pdf/hynds2024innermost.pdf). Hynds, Danny and Chernyshov, George and Zheng, Dingding and Uyama, Aoi and Li, Juling and Matsumoto, Kozue and Pogorzhelskiy, Michael and Kunze, Kai and Ward, Jamie A and Minamizawa, Kouta. Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2024. [Bibtex](/papers/bib/hynds2024innermost.bib).  [Mp3 summary](/audio/mp3s/hynds2024innermost.mp3). 
