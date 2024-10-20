@@ -362,7 +362,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Empathy Glasses_](/papers/pdf/masai2016empathy.pdf). Masai, Katsutoshi and Kunze, Kai and Billinghurst, Mark and others. Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016. [Bibtex](/papers/bib/masai2016empathy.bib). 
 
 ***
-_In the Eye of the Beholder: The Impact of Frame Rate on Human Eye Blink_. Tag, Benjamin and Shimizu, Junichi and Zhang, Chi and Kunze, Kai and Ohta, Naohisa and Sugiura, Kazunori. Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016. [Bibtex](/papers/bib/Tag:2016:EBI:2851581.2892449.bib). 
+[_In the Eye of the Beholder: The Impact of Frame Rate on Human Eye Blink_](/papers/pdf/tag2016eye.pdf). Tag, Benjamin and Shimizu, Junichi and Zhang, Chi and Kunze, Kai and Ohta, Naohisa and Sugiura, Kazunori. Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016. [Bibtex](/papers/bib/tag2016eye.bib). 
 
 ***
 [_Enhanced Tradition: Combining Tech and Traditional Clothing_](/papers/pdf/sokol2015enhanced.pdf). Sokol, Vilhelmina and Sugiura, Yuta and Kunze, Kai and Inami, Masahiko. Proceedings of UbiComp'15 Adjunct. 2015. [Bibtex](/papers/bib/sokol2015enhanced.bib). 
@@ -488,7 +488,7 @@ _Does on-body location of a GPS receiver matter?_. Vaitl, Christian and Kunze, K
 [_On the use of magnetic field disturbances as features for activity recognition with on body sensors_](/papers/pdf/bahle2010use.pdf). Bahle, Gernot and Kunze, Kai and Lukowicz, Paul. Smart Sensing and Context. 2010. [Bibtex](/papers/bib/bahle2010use.bib). 
 
 ***
-_Can a Mobile Phone in a Pocket Reliably Recognize Ambient Sounds?_. Franke, Tobias and Lukowicz, Paul and Kunze, Kai and Bannach, David. Wearable Computers, 2009. ISWC'09. International Symposium on. 2009. [Bibtex](/papers/bib/franke2009can.bib). 
+[_Can a Mobile Phone in a Pocket Reliably Recognize Ambient Sounds?_](/papers/pdf/franke2009can.pdf). Franke, Tobias and Lukowicz, Paul and Kunze, Kai and Bannach, David. Wearable Computers, 2009. ISWC'09. International Symposium on. 2009. [Bibtex](/papers/bib/franke2009can.bib). 
 
 ***
 [_Which way am I facing: Inferring horizontal device orientation from an accelerometer signal_](/papers/pdf/kunze2009way.pdf). Kunze, Kai and Lukowicz, Paul and Partridge, Kurt and Begole, Bo. Wearable Computers, 2009. ISWC'09. International Symposium on. 2009. [Bibtex](/papers/bib/kunze2009way.bib). 
@@ -506,7 +506,7 @@ _Can a Mobile Phone in a Pocket Reliably Recognize Ambient Sounds?_. Franke, Tob
 [_Dealing with sensor displacement in motion-based onbody activity recognition systems_](/papers/pdf/kunze2008dealing.pdf). Kunze, Kai and Lukowicz, Paul. Proceedings of the 10th international conference on Ubiquitous computing. 2008. [Bibtex](/papers/bib/kunze2008dealing.bib). 
 
 ***
-_Using acceleration signatures from everyday activities for on-body device location_. Kunze, Kai and Lukowicz, Paul. Wearable Computers, 2007 11th IEEE International Symposium on. 2007. [Bibtex](/papers/bib/kunze2007using.bib). 
+[_Using acceleration signatures from everyday activities for on-body device location_](/papers/pdf/kunze2007using.pdf). Kunze, Kai and Lukowicz, Paul. Wearable Computers, 2007 11th IEEE International Symposium on. 2007. [Bibtex](/papers/bib/kunze2007using.bib). 
 
 ***
 [_Symbolic object localization through active sampling of acceleration and sound signatures_](/papers/pdf/kunze2007symbolic.pdf). Kunze, Kai and Lukowicz, Paul. Proceedings of the 9th international conference on Ubiquitous computing. 2007. [Bibtex](/papers/bib/kunze2007symbolic.bib). 
