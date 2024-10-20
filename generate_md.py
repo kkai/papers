@@ -42,9 +42,7 @@ for key, value in bib_sorted:
         else:
             f.write('***\n_'+value.fields['title']+'_. ')
         
-        if(os.path.isfile(audio_fname)):
-            #print(value.fields['title'])
-            f.write(str(' [mp3 summary](/audio/mp3s/'+str(key)+'.mp3). '))
+       
         
         authors = ""
         for i in value.persons[u"Author"]:
@@ -54,6 +52,9 @@ for key, value in bib_sorted:
         f.write(value.fields['booktitle']+'. ')
         f.write(value.fields['year']+'. ')
         f.write('[Bibtex](/papers/bib/'+key+'.bib). ')
+        if(os.path.isfile(audio_fname)):
+            #print(value.fields['title'])
+            f.write(str(' [mp3 summary](/audio/mp3s/'+str(key)+'.mp3). '))
         f.write('\n\n')
     #print value.fields['year']
     #print value.fields['author']
