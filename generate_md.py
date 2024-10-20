@@ -54,7 +54,7 @@ for key, value in bib_sorted:
         f.write('[Bibtex](/papers/bib/'+key+'.bib). ')
         if(os.path.isfile(audio_fname)):
             #print(value.fields['title'])
-            f.write(str(' [mp3 summary](/audio/mp3s/'+str(key)+'.mp3). '))
+            f.write(str(' [Mp3 summary](/audio/mp3s/'+str(key)+'.mp3). '))
         f.write('\n\n')
     #print value.fields['year']
     #print value.fields['author']
