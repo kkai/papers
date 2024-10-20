@@ -26,6 +26,7 @@ f.write(header)
 
 for key, value in bib_sorted:
     pdf_fname = './pdf/'+key+'.pdf'
+    audio_fname = '../kaikunze.de-audio/mp3s/'+key+'.mp3'
     #if(os.path.isfile(pdf_fname)):
     #    pdf = Image(filename=pdf_fname)
     #    pdf.format = 'png'
@@ -40,6 +41,11 @@ for key, value in bib_sorted:
             f.write(str('***\n[_'+value.fields['title']+'_](/papers/pdf/'+str(key)+'.pdf). '))
         else:
             f.write('***\n_'+value.fields['title']+'_. ')
+        
+        if(os.path.isfile(audio_fname)):
+            #print(value.fields['title'])
+            f.write(str(' [mp3 summary](/audio/mp3s/'+str(key)+'.mp3). '))
+        
         authors = ""
         for i in value.persons[u"Author"]:
             authors += str(i) + " and "
