@@ -2,6 +2,30 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Spread Your Wings: Demonstrating a Soft Floating Robotic Avatar with Flapping Wings for Novel Physical Interactions_](/papers/pdf/xu2025spread.pdf). Xu, Mingyang and Ju, Yulan and Zhang, Qing and Kim, Christopher Changmok and Gao, Qingyuan and Pai, Yun Suen and Barbareschi, Giulia and Hoppe, Matthias and Kunze, Kai and Minamizawa, Kouta. ACM SIGGRAPH 2025 Emerging Technologies. 2025. [Bibtex](/papers/bib/xu2025spread.bib). 
+
+***
+[_TIEboard: A Digital Educational Tool for Kids Geometric Learning_](/papers/pdf/zaidi2025tieboard.pdf). Zaidi, Arooj and Barbareschi, Giulia and Kunze, Kai and Pai, Yun Suen and Yamaoka, Junichi. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2025. [Bibtex](/papers/bib/zaidi2025tieboard.bib). 
+
+***
+[_BodyPursuits: Exploring Smooth Pursuit Gaze Interaction Based on Body Motion Targets_](/papers/pdf/hansen2025bodypursuits.pdf). Hansen, Anja and Makarem, Sarah and Kunze, Kai and Zhou, Yexu and Knierim, Michael Thomas and Clarke, Christopher and Gellersen, Hans and Beigl, Michael and R{\"o}ddiger, Tobias. Proceedings of the 2025 Symposium on Eye Tracking Research and Applications. 2025. [Bibtex](/papers/bib/hansen2025bodypursuits.bib). 
+
+***
+[_Eye-Tracking for Cognitive Well-Being: Balancing Detection and Ethical Feedback_](/papers/pdf/kim2025eye.pdf). Kim, Christopher Changmok and Hoppe, Matthias and Kunze, Kai. Proceedings of the 2025 Symposium on Eye Tracking Research and Applications. 2025. [Bibtex](/papers/bib/kim2025eye.bib). 
+
+***
+[_A Placebo Concert: The Placebo Effect for Visualization of Physiological Audience Data during Experience Recreation in Virtual Reality_](/papers/pdf/meng2025placebo.pdf). Meng, Xiaru and Ju, Yulan and Kim, Christopher Changmok and He, Yan and Barbareschi, Giulia and Minamizawa, Kouta and Kunze, Kai and Hoppe, Matthias. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. 2025. [Bibtex](/papers/bib/meng2025placebo.bib). 
+
+***
+[_Sticking With Electronics for Crafting Practices: An Inclusive Approach to Promote Making Literacy Among Older Adults_](/papers/pdf/barbareschi2025sticking.pdf). Barbareschi, Giulia and Sato, Chihiro and Senyer, Seray and Junpeng, Michael Pan and Zhao, Jianrui and Chen, Dunya and Ellis, Kirsten and Kunze, Kai. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. 2025. [Bibtex](/papers/bib/barbareschi2025sticking.bib). 
+
+***
+[_Affective Wings: Exploring Affectionate Behaviors in Close-Proximity Interactions with Soft Floating Robots_](/papers/pdf/xu2024affective.pdf). Xu, Mingyang and Ju, Yulan and Qi, Yunkai and Meng, Xiaru and Zhang, Qing and Hoppe, Matthias and Minamizawa, Kouta and Barbareschi, Giulia and Kunze, Kai. SIGGRAPH Asia 2024 Posters. 2024. [Bibtex](/papers/bib/xu2024affective.bib). 
+
+***
+[_Novel Sensing Methods for Vocal Technique Analysis: Evaluation on Electromyography and Ultrasonography_](/papers/pdf/chen2024novel.pdf). Chen, Kanyu and Wu, Erwin and Saito, Daichi and Peng, Yichen and Liao, Chen-Chieh and Kato, Akira and Koike, Hideki and Kunze, Kai. 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2024. [Bibtex](/papers/bib/chen2024novel.bib). 
+
+***
 [_" Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib).  [Mp3 summary](/audio/mp3s/barbareschi2024speech.mp3). 
 
 ***
