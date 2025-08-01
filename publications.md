@@ -8,7 +8,7 @@ date: 2020-04-16T12:07:18+09:00
 [_TIEboard: A Digital Educational Tool for Kids Geometric Learning_](/papers/pdf/zaidi2025tieboard.pdf). Zaidi, Arooj and Barbareschi, Giulia and Kunze, Kai and Pai, Yun Suen and Yamaoka, Junichi. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2025. [Bibtex](/papers/bib/zaidi2025tieboard.bib).  [Mp3 summary](/audio/mp3s/zaidi2025tieboard.mp3). 
 
 ***
-[_BodyPursuits: Exploring Smooth Pursuit Gaze Interaction Based on Body Motion Targets_](/papers/pdf/hansen2025bodypursuits.pdf). Hansen, Anja and Makarem, Sarah and Kunze, Kai and Zhou, Yexu and Knierim, Michael Thomas and Clarke, Christopher and Gellersen, Hans and Beigl, Michael and R{\"o}ddiger, Tobias. Proceedings of the 2025 Symposium on Eye Tracking Research and Applications. 2025. [Bibtex](/papers/bib/hansen2025bodypursuits.bib). 
+[_BodyPursuits: Exploring Smooth Pursuit Gaze Interaction Based on Body Motion Targets_](/papers/pdf/hansen2025bodypursuits.pdf). Hansen, Anja and Makarem, Sarah and Kunze, Kai and Zhou, Yexu and Knierim, Michael Thomas and Clarke, Christopher and Gellersen, Hans and Beigl, Michael and R{\"o}ddiger, Tobias. Proceedings of the 2025 Symposium on Eye Tracking Research and Applications. 2025. [Bibtex](/papers/bib/hansen2025bodypursuits.bib).  [Mp3 summary](/audio/mp3s/hansen2025bodypursuits.mp3). 
 
 ***
 [_Eye-Tracking for Cognitive Well-Being: Balancing Detection and Ethical Feedback_](/papers/pdf/kim2025eye.pdf). Kim, Christopher Changmok and Hoppe, Matthias and Kunze, Kai. Proceedings of the 2025 Symposium on Eye Tracking Research and Applications. 2025. [Bibtex](/papers/bib/kim2025eye.bib).  [Mp3 summary](/audio/mp3s/kim2025eye.mp3). 
