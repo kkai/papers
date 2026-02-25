@@ -2,6 +2,12 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Embodied Responses to Posthuman Performance: A Mixed-Methods Study of Physiological and Emotional Audience Reactions_](/papers/pdf/kunze2026sonic.pdf). Kunze, Kai and Xu, Mingyang and Peng, Danyang and Ogasawara de Oliveira, Lucas and Shao, Rose and Meng, Xiaru and Hoppe, Matthias and Barbareschi, Giulia. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/kunze2026sonic.bib). 
+
+***
+[_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
+
+***
 [_Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning_](/papers/pdf/zhang2025pro.pdf). Zhang, Qing and Huang, Jing and Itoh, Yuta and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies, 1-2. 2025. [Bibtex](/papers/bib/zhang2025pro.bib). 
 
 ***
