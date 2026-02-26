@@ -2,10 +2,13 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
+
+***
 [_Embodied Responses to Posthuman Performance: A Mixed-Methods Study of Physiological and Emotional Audience Reactions_](/papers/pdf/kunze2026sonic.pdf). Kunze, Kai and Xu, Mingyang and Peng, Danyang and Ogasawara de Oliveira, Lucas and Shao, Rose and Meng, Xiaru and Hoppe, Matthias and Barbareschi, Giulia. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/kunze2026sonic.bib). 
 
 ***
-[_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
+[_Cuddle-fish: Exploring a soft floating robot with flapping wings for physical interactions_](/papers/pdf/xu2025cuddle.pdf). Xu, Mingyang and Shao, Jiayi and Ju, Yulan and Shen, Ximing and Gao, Qingyuan and Chen, Weijen and Zhang, Qing and Pai, Yun Suen and Barbareschi, Giulia and Hoppe, Matthias and Minamizawa, Kouta and Kunze, Kai. Proceedings of the Augmented Humans International Conference 2025, 160-173. 2025. [Bibtex](/papers/bib/xu2025cuddle.bib). 
 
 ***
 [_Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning_](/papers/pdf/zhang2025pro.pdf). Zhang, Qing and Huang, Jing and Itoh, Yuta and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies, 1-2. 2025. [Bibtex](/papers/bib/zhang2025pro.bib). 
@@ -249,6 +252,12 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 
 ***
 [_Pleasant Locomotion--Towards Reducing Cybersickness using fNIRS during Walking Events in VR_](/papers/pdf/yamamura2020pleasant.pdf). Yamamura, Hiroo and Baldauf, Holger and Kunze, Kai. Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology. 2020. [Bibtex](/papers/bib/yamamura2020pleasant.bib).  [Mp3 summary](/audio/mp3s/yamamura2020pleasant.mp3). 
+
+***
+[_Aromacue-a scent toolkit to cope with stress using the 4-7-8 breathing method_](/papers/pdf/lin2020aromacue.pdf). Lin, Zilan and Kunze, Kai and Ueki, Atsuro and Inakage, Masa. Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2020. [Bibtex](/papers/bib/lin2020aromacue.bib). 
+
+***
+[_Genvibe: exploration of interactive generation of personal vibrotactile patterns_](/papers/pdf/pescara2020genvibe.pdf). Pescara, Erik and Dreschner, Florian and Marky, Karola and Kunze, Kai and Beigl, Michael. Proceedings of the Augmented Humans International Conference, 1-9. 2020. [Bibtex](/papers/bib/pescara2020genvibe.bib). 
 
 ***
 [_Collaborative learning \\& co-creation in XR_](/papers/pdf/vasilchenko2020collaborative.pdf). Vasilchenko, Anna and Li, Jie and Ryskeldiev, Bektur and Sarcar, Sayan and Ochiai, Yoichi and Kunze, Kai and Radu, Iulian. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/vasilchenko2020collaborative.bib).  [Mp3 summary](/audio/mp3s/vasilchenko2020collaborative.mp3). 
