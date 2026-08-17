@@ -20,7 +20,7 @@ date: 2020-04-16T12:07:18+09:00
 [_Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography_](/papers/pdf/chen2026sensing.pdf). Chen, Kanyu and Panskus, Rebecca and Wu, Erwin and Peng, Yichen and Saito, Daichi and Kamiyama, Emiko and Li, Ruiteng and Liao, Chen-Chieh and Marky, Karola and Akira, Kato and Koike, Hideki and Kunze, Kai. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. 2026. [Bibtex](/papers/bib/chen2026sensing.bib). 
 
 ***
-_Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training_. Lan, Wei and Peng, Danyang and Xia, Zicheng and Langlotz, Tobias and Zollmann, Stefanie and Kunze, Kai. 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). 2026. [Bibtex](/papers/bib/lan2026towards.bib). 
+[_Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training_](/papers/pdf/lan2026towards.pdf). Lan, Wei and Peng, Danyang and Xia, Zicheng and Langlotz, Tobias and Zollmann, Stefanie and Kunze, Kai. 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). 2026. [Bibtex](/papers/bib/lan2026towards.bib). 
 
 ***
 [_OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses_](/papers/pdf/zhang2026opticalaging.pdf). Zhang, Qing and Su, Zixiong and Kondoh, Yoshihito and Asada, Kazunori and Starner, Thad and Kunze, Kai and Itoh, Yuta and Rekimoto, Jun. Proceedings of the Augmented Humans International Conference 2026. 2026. [Bibtex](/papers/bib/zhang2026opticalaging.bib). 
