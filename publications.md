@@ -2,6 +2,39 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_NASA-Task Load Index in CHI: A Comprehensive Review and Subscale Meta-Analysis with Implementation Guidelines_](/papers/pdf/lee2026nasa.pdf). Lee, Juyoung and Starner, Thad and Kunze, Kai and Kosch, Thomas and Pospelova, Maria and Woo, Woontack. ACM Transactions on Computer-Human Interaction. 2026. [Bibtex](/papers/bib/lee2026nasa.bib). 
+
+***
+[_Characterizing In-the-Wild Personal Listening Device Use to Inform Earable Application Design_](/papers/pdf/ramesh2026characterizing.pdf). Ramesh, Supraja and Hummel, Jonas and Becker, Silvia and Clarke, Christopher and Stuchbury-Wass, Jake and Kunze, Kai and Loewe, Axel and Beigl, Michael and Röddiger, Tobias. arXiv preprint arXiv:2607.24603. 2026. [Bibtex](/papers/bib/ramesh2026characterizing.bib). 
+
+***
+[_Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments_](/papers/pdf/xu2026floating.pdf). Xu, Mingyang and Li, Yanheng and Dumlu, Burcu Nimet and LC, RAY and Barbareschi, Giulia and Hoppe, Matthias and Li, Jie and Minamizawa, Kouta and Kunze, Kai. Proceedings of the 2026 Designing Interactive Systems Conference. 2026. [Bibtex](/papers/bib/xu2026floating.bib). 
+
+***
+[_Creating Empowering Counter-Narratives through Collective Digital Art by Disabled People_](/papers/pdf/barbareschi2026counter.pdf). Barbareschi, Giulia and Sato, Chihiro and Chen, Dunya and Chen, Sifan and Koga, Eimi and Wilsher-Mills, Jason and Kunze, Kai. Proceedings of the 2026 Designing Interactive Systems Conference. 2026. [Bibtex](/papers/bib/barbareschi2026counter.bib). 
+
+***
+[_Qìfield: Externalizing Qi as a Palmar Haptic Field for Volitional Extension in Tai Chi Practices_](/papers/pdf/lan2026qifield.pdf). Lan, Wei and Ren, Yilin and Si, Mingda and Feng, Changfei and Peng, Danyang and Kunze, Kai and Shen, Ximing and Pai, Yun Suen and Ishii, Hiroshi and Minamizawa, Kouta. Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems. 2026. [Bibtex](/papers/bib/lan2026qifield.bib). 
+
+***
+[_Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography_](/papers/pdf/chen2026sensing.pdf). Chen, Kanyu and Panskus, Rebecca and Wu, Erwin and Peng, Yichen and Saito, Daichi and Kamiyama, Emiko and Li, Ruiteng and Liao, Chen-Chieh and Marky, Karola and Akira, Kato and Koike, Hideki and Kunze, Kai. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. 2026. [Bibtex](/papers/bib/chen2026sensing.bib). 
+
+***
+_Towards EMG-Driven Pseudo-Haptic Feedback for VR Surgical Training_. Lan, Wei and Peng, Danyang and Xia, Zicheng and Langlotz, Tobias and Zollmann, Stefanie and Kunze, Kai. 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). 2026. [Bibtex](/papers/bib/lan2026towards.bib). 
+
+***
+[_OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses_](/papers/pdf/zhang2026opticalaging.pdf). Zhang, Qing and Su, Zixiong and Kondoh, Yoshihito and Asada, Kazunori and Starner, Thad and Kunze, Kai and Itoh, Yuta and Rekimoto, Jun. Proceedings of the Augmented Humans International Conference 2026. 2026. [Bibtex](/papers/bib/zhang2026opticalaging.bib). 
+
+***
+[_Inbody Interactions_](/papers/pdf/nanayakkara2026inbody.pdf). Nanayakkara, Suranga and Inami, Masahiko and Kunze, Kai and Churchill, Elizabeth and Chen, Kanyu and Peng, Danyang and Sasikumar, Prasanth and Wei, Yize and Nguyen, Mia Huong. Proceedings of the Augmented Humans International Conference 2026. 2026. [Bibtex](/papers/bib/nanayakkara2026inbody.bib). 
+
+***
+[_Affective Wearable Haptic Interventions: A Systematic Literature Review_](/papers/pdf/lee2026affective.pdf). Lee, Jueun and Röddiger, Tobias and Makarem, Sarah and Riedel, Till and Kunze, Kai and Beigl, Michael. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2026. [Bibtex](/papers/bib/lee2026affective.bib). 
+
+***
+[_Cognitive Sensing and Interaction (Dagstuhl Seminar 25422)_](/papers/pdf/kosch2026cognitive.pdf). Kosch, Thomas and Kunze, Kai and Schneegass, Christina and Starner, Thad. Dagstuhl Reports. 2026. [Bibtex](/papers/bib/kosch2026cognitive.bib). 
+
+***
 [_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
 
 ***
@@ -12,9 +45,6 @@ date: 2020-04-16T12:07:18+09:00
 
 ***
 [_Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning_](/papers/pdf/zhang2025pro.pdf). Zhang, Qing and Huang, Jing and Itoh, Yuta and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies, 1-2. 2025. [Bibtex](/papers/bib/zhang2025pro.bib). 
-
-***
-[_OpticalAging: Real-time Presbyopia Simulation for Inclusive Design via Tunable Lenses_](/papers/pdf/zhang2025opticalaging.pdf). Zhang, Qing and Su, Zixiong and Kondoh, Yoshihito and Asada, Kazunori and Starner, Thad and Kunze, Kai and Itoh, Yuta and Rekimoto, Jun. arXiv preprint arXiv:2506.19307. 2025. [Bibtex](/papers/bib/zhang2025opticalaging.bib). 
 
 ***
 [_Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional Guidance_](/papers/pdf/zhang2025beyond.pdf). Zhang, Qing and Chen, Junyu and Huang, Yifei and Huang, Jing and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the 2025 ACM International Symposium on Wearable Computers, 22-29. 2025. [Bibtex](/papers/bib/zhang2025beyond.bib). 
