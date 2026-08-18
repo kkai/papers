@@ -65,7 +65,7 @@ date: 2020-04-16T12:07:18+09:00
 [_A Placebo Concert: The Placebo Effect for Visualization of Physiological Audience Data during Experience Recreation in Virtual Reality_](/papers/pdf/meng2025placebo.pdf). Meng, Xiaru and Ju, Yulan and Kim, Christopher Changmok and He, Yan and Barbareschi, Giulia and Minamizawa, Kouta and Kunze, Kai and Hoppe, Matthias. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. 2025. [Bibtex](/papers/bib/meng2025placebo.bib).  [Mp3 summary](/audio/mp3s/meng2025placebo.mp3). 
 
 ***
-[_Beyond Human: Cognitive and Physical Augmentation through AI, Robotics, and XR–Opportunities and Risks_](/papers/pdf/li2025beyond.pdf). Li, Jie and Withana, Anusha and Diening, Alexandra and Kunze, Kai and Inami, Masahiko. Proceedings of the Augmented Humans International Conference 2025. 2025. [Bibtex](/papers/bib/li2025beyond.bib). 
+[_Beyond Human: Cognitive and Physical Augmentation through AI, Robotics, and XR – Opportunities and Risks_](/papers/pdf/li2025beyond.pdf). Li, Jie and Withana, Anusha and Diening, Alexandra and Kunze, Kai and Inami, Masahiko. Proceedings of the Augmented Humans International Conference 2025. 2025. [Bibtex](/papers/bib/li2025beyond.bib). 
 
 ***
 [_Closed-Loop Rhythmic Haptic Biofeedback via Smartwatch for Relaxation and Sleep Onset_](/papers/pdf/lee2025closedloop.pdf). Lee, Jueun and Moschina, Dennis and Ramesh, Supraja and Röddiger, Tobias and Kunze, Kai and Beigl, Michael. Proceedings of the 2025 ACM International Symposium on Wearable Computers. 2025. [Bibtex](/papers/bib/lee2025closedloop.bib). 
@@ -116,7 +116,7 @@ date: 2020-04-16T12:07:18+09:00
 [_Novel Sensing Methods for Vocal Technique Analysis: Evaluation on Electromyography and Ultrasonography_](/papers/pdf/chen2024novel.pdf). Chen, Kanyu and Wu, Erwin and Saito, Daichi and Peng, Yichen and Liao, Chen-Chieh and Kato, Akira and Koike, Hideki and Kunze, Kai. 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2024. [Bibtex](/papers/bib/chen2024novel.bib).  [Mp3 summary](/audio/mp3s/chen2024novel.mp3). 
 
 ***
-[_" Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib).  [Mp3 summary](/audio/mp3s/barbareschi2024speech.mp3). 
+[_"Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib).  [Mp3 summary](/audio/mp3s/barbareschi2024speech.mp3). 
 
 ***
 [_Exploring Digital Embodiment in Wheelchair Dance with Generative AI_](/papers/pdf/xie2023exploring.pdf). Xie, Yurui and Barbareschi, Giulia and Kunze, Kai and Inakage, Masa. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/xie2023exploring.bib). 
