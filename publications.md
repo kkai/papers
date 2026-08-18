@@ -401,6 +401,12 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Bubble jumper: enhancing the traditional japanese sport sumo with physical augmentation_](/papers/pdf/ando2018bubble.pdf). Ando, Ryoichi and Ando, Akihiro and Kunze, Kai and Minamizawa, Kouta. Proceedings of the First Superhuman Sports Design Challenge: First International Symposium on Amplifying Capabilities and Competing in Mixed Realities. 2018. [Bibtex](/papers/bib/ando2018bubble.bib).  [Mp3 summary](/audio/mp3s/ando2018bubble.mp3). 
 
 ***
+[_Itchy Nose: Discreet Gesture Interaction using EOG Sensors in Smart Eyewear_](/papers/pdf/lee2017itchy.pdf). Lee, Juyoung and Yeo, Hui-Shyong and Dhuliawala, Murtaza and Akano, Jedidiah and Shimizu, Junichi and Starner, Thad and Quigley, Aaron and Woo, Woontack and Kunze, Kai. Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/lee2017itchy.bib). 
+
+***
+[_Nene: An Interactive Pet Device_](/papers/pdf/julsaksrisakul2017nene.pdf). Julsaksrisakul, Pafan and Chernyshov, George and Nakatani, Masashi and Tag, Benjamin and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/julsaksrisakul2017nene.bib). 
+
+***
 [_Wearable aura: an interactive projection on personal space to enhance communication_](/papers/pdf/zheng2017wearable.pdf). Zheng, Dingding and Lugaresi, Laura and Chernyshov, George and Tag, Benjamin and Inakage, Masa and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/zheng2017wearable.bib).  [Mp3 summary](/audio/mp3s/zheng2017wearable.mp3). 
 
 ***
@@ -510,6 +516,9 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 
 ***
 [_Run with me: designing storytelling tools for runners_](/papers/pdf/alohali2016run.pdf). Alohali, Albara and Kunze, Kai and Earle, Robert. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. [Bibtex](/papers/bib/alohali2016run.bib).  [Mp3 summary](/audio/mp3s/alohali2016run.mp3). 
+
+***
+[_The Augmented Narrative: Toward Estimating Reader Engagement_](/papers/pdf/kunze2015augmented.pdf). Kunze, Kai and Sanchez, Susana and Dingler, Tilman and Augereau, Olivier and Kise, Koichi and Inami, Masahiko and Terada, Tsutomu. Proceedings of the 6th Augmented Human International Conference. 2015. [Bibtex](/papers/bib/kunze2015augmented.bib). 
 
 ***
 [_Enhanced Tradition: Combining Tech and Traditional Clothing_](/papers/pdf/sokol2015enhanced.pdf). Sokol, Vilhelmina and Sugiura, Yuta and Kunze, Kai and Inami, Masahiko. Proceedings of UbiComp'15 Adjunct. 2015. [Bibtex](/papers/bib/sokol2015enhanced.bib).  [Mp3 summary](/audio/mp3s/sokol2015enhanced.mp3). 
