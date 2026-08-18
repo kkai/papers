@@ -9,3 +9,4 @@ download_via_chrome.py
 pdf_receiver.py
 export_missing.py
 apply_fixes.py
+.DS_Store

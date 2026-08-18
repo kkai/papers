@@ -35,19 +35,19 @@ date: 2020-04-16T12:07:18+09:00
 [_Cognitive Sensing and Interaction (Dagstuhl Seminar 25422)_](/papers/pdf/kosch2026cognitive.pdf). Kosch, Thomas and Kunze, Kai and Schneegass, Christina and Starner, Thad. Dagstuhl Reports. 2026. [Bibtex](/papers/bib/kosch2026cognitive.bib). 
 
 ***
-[_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
+[_Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations_](/papers/pdf/meng2026abstract.pdf). Meng, Xiaru and Ju, Yulan and Hoppe, Matthias and Han, Jiawen and He, Yan and Minamizawa, Kouta and Kunze, Kai. Proceedings of the Augmented Humans International Conference 2026. 2026. [Bibtex](/papers/bib/meng2026abstract.bib). 
 
 ***
-[_Embodied Responses to Posthuman Performance: A Mixed-Methods Study of Physiological and Emotional Audience Reactions_](/papers/pdf/kunze2026sonic.pdf). Kunze, Kai and Xu, Mingyang and Peng, Danyang and Ogasawara de Oliveira, Lucas and Shao, Rose and Meng, Xiaru and Hoppe, Matthias and Barbareschi, Giulia. The Augmented Humans International Conference 2026 (AHs 2026), March 16--19, 2026, Okinawa, Japan. 2026. [Bibtex](/papers/bib/kunze2026sonic.bib). 
+[_Embodied Responses to Posthuman Performance: A Mixed-Methods Study of Physiological and Emotional Audience Reactions_](/papers/pdf/kunze2026sonic.pdf). Kunze, Kai and Xu, Mingyang and Peng, Danyang and Ogasawara de Oliveira, Lucas and Shao, Rose and Meng, Xiaru and Hoppe, Matthias and Barbareschi, Giulia. Proceedings of the Augmented Humans International Conference 2026. 2026. [Bibtex](/papers/bib/kunze2026sonic.bib). 
 
 ***
-[_Cuddle-fish: Exploring a soft floating robot with flapping wings for physical interactions_](/papers/pdf/xu2025cuddle.pdf). Xu, Mingyang and Shao, Jiayi and Ju, Yulan and Shen, Ximing and Gao, Qingyuan and Chen, Weijen and Zhang, Qing and Pai, Yun Suen and Barbareschi, Giulia and Hoppe, Matthias and Minamizawa, Kouta and Kunze, Kai. Proceedings of the Augmented Humans International Conference 2025, 160-173. 2025. [Bibtex](/papers/bib/xu2025cuddle.bib). 
+[_Cuddle-fish: Exploring a soft floating robot with flapping wings for physical interactions_](/papers/pdf/xu2025cuddle.pdf). Xu, Mingyang and Shao, Jiayi and Ju, Yulan and Shen, Ximing and Gao, Qingyuan and Chen, Weijen and Zhang, Qing and Pai, Yun Suen and Barbareschi, Giulia and Hoppe, Matthias and Minamizawa, Kouta and Kunze, Kai. Proceedings of the Augmented Humans International Conference 2025. 2025. [Bibtex](/papers/bib/xu2025cuddle.bib). 
 
 ***
-[_Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning_](/papers/pdf/zhang2025pro.pdf). Zhang, Qing and Huang, Jing and Itoh, Yuta and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies, 1-2. 2025. [Bibtex](/papers/bib/zhang2025pro.bib). 
+[_Pro's Eyes: A Wearable System for Synchronous and Asynchronous Observational Pattern Learning_](/papers/pdf/zhang2025pro.pdf). Zhang, Qing and Huang, Jing and Itoh, Yuta and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the SIGGRAPH Asia 2025 Emerging Technologies. 2025. [Bibtex](/papers/bib/zhang2025pro.bib). 
 
 ***
-[_Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional Guidance_](/papers/pdf/zhang2025beyond.pdf). Zhang, Qing and Chen, Junyu and Huang, Yifei and Huang, Jing and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the 2025 ACM International Symposium on Wearable Computers, 22-29. 2025. [Bibtex](/papers/bib/zhang2025beyond.bib). 
+[_Beyond Symbols: Motion Perception Cues Enhance Dual-Task Performance with Wearable Directional Guidance_](/papers/pdf/zhang2025beyond.pdf). Zhang, Qing and Chen, Junyu and Huang, Yifei and Huang, Jing and Starner, Thad and Kunze, Kai and Rekimoto, Jun. Proceedings of the 2025 ACM International Symposium on Wearable Computers. 2025. [Bibtex](/papers/bib/zhang2025beyond.bib). 
 
 ***
 [_TIEboard: A Digital Educational Tool for Kids Geometric Learning_](/papers/pdf/zaidi2025tieboard.pdf). Zaidi, Arooj and Barbareschi, Giulia and Kunze, Kai and Pai, Yun Suen and Yamaoka, Junichi. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2025. [Bibtex](/papers/bib/zaidi2025tieboard.bib).  [Mp3 summary](/audio/mp3s/zaidi2025tieboard.mp3). 
@@ -134,16 +134,13 @@ date: 2020-04-16T12:07:18+09:00
 [_Exploring the Design Space of Assistive Augmentation_](/papers/pdf/nanayakkara2023exploring.pdf). Nanayakkara, Suranga Chandima and Inami, Masahiko and Mueller, Florian and Huber, Jochen and Gupta, Chitralekha and Jouffrais, Christophe and Kunze, Kai and Patibanda, Rakesh and Chan, Samantha WT and Messerschmidt, Moritz Alexander. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/nanayakkara2023exploring.bib).  [Mp3 summary](/audio/mp3s/nanayakkara2023exploring.mp3). 
 
 ***
-[_Towards enhancing a recorded concert experience in virtual reality by visualizing the physiological data of the audience_](/papers/pdf/meng2023enhancing.pdf). Meng, X and He, Y and Kunze, K. Proceedings of the Augmented Humans International Conference 2023, 330-333. 2023. [Bibtex](/papers/bib/meng2023enhancing.bib). 
+[_Towards enhancing a recorded concert experience in virtual reality by visualizing the physiological data of the audience_](/papers/pdf/meng2023enhancing.pdf). Meng, X and He, Y and Kunze, K. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/meng2023enhancing.bib). 
 
 ***
 [_First Bite/Chew: distinguish typical allergic food by two IMUs_](/papers/pdf/li2023first.pdf). Li, Juling and Wang, Xiongqi and Chen, Junyu and Starner, Thad and Chernyshov, George and Huang, Jing and Huang, Yifei and Kunze, Kai and Zhang, Qing. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/li2023first.bib).  [Mp3 summary](/audio/mp3s/li2023first.mp3). 
 
 ***
-_Dagstuhl Reports, Vol. 12, Issue 12 ISSN 2192-5283_. Kunze, K and Maes, FFM Pattie and Wolf, K and Attiya, H and Enea, C and Rajsbaum, S and .... . 2023. [Bibtex](/papers/bib/kunze2023dagstuhl.bib). 
-
-***
-[_Cognitive Augmentation (Dagstuhl Seminar 22491)_](/papers/pdf/kunze2023cognitive.pdf). Kunze, K and Maes, P and Mueller, FF and Wolf, K. Dagstuhl Reports 12 (12), 1-26. 2023. [Bibtex](/papers/bib/kunze2023cognitive.bib). 
+[_Cognitive Augmentation (Dagstuhl Seminar 22491)_](/papers/pdf/kunze2023cognitive.pdf). Kunze, K and Maes, P and Mueller, FF and Wolf, K. Dagstuhl Reports 12 (12). 2023. [Bibtex](/papers/bib/kunze2023cognitive.bib). 
 
 ***
 [_Soma Express Kit: Understanding the Somaesthetic Experience of People with Visual Impairment: Soma Express Kit_](/papers/pdf/kanda2023soma.pdf). Kanda, Michi and Kunze, Kai. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/kanda2023soma.bib).  [Mp3 summary](/audio/mp3s/kanda2023soma.mp3). 
@@ -188,7 +185,7 @@ _Dagstuhl Reports, Vol. 12, Issue 12 ISSN 2192-5283_. Kunze, K and Maes, FFM Pat
 _Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and others. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
 
 ***
-[_What we talk about when we talk about human-computer integration_](/papers/pdf/semertzidis2022what.pdf). Semertzidis, N and Fang, Z and Lopes, P and Kunze, K and Pangaro, P and Mueller, F and Maes, P. CHI Conference on Human Factors in Computing Systems Extended Abstracts, 1-4. 2022. [Bibtex](/papers/bib/semertzidis2022what.bib). 
+[_What we talk about when we talk about human-computer integration_](/papers/pdf/semertzidis2022what.pdf). Semertzidis, N and Fang, Z and Lopes, P and Kunze, K and Pangaro, P and Mueller, F and Maes, P. CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. [Bibtex](/papers/bib/semertzidis2022what.bib). 
 
 ***
 [_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib).  [Mp3 summary](/audio/mp3s/semertzidis2022human.mp3). 
@@ -248,7 +245,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset_](/papers/pdf/pai2021napwell.pdf). Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. [Bibtex](/papers/bib/pai2021napwell.bib).  [Mp3 summary](/audio/mp3s/pai2021napwell.mp3). 
 
 ***
-[_25 years of ISWC: Time flies when you're having fun_](/papers/pdf/martin2021years.pdf). Martin, T and Starner, T and Siewiorek, D and Kunze, K and Laerhoven, K Van. IEEE Pervasive Computing 20 (3), 72-78. 2021. [Bibtex](/papers/bib/martin2021years.bib). 
+[_25 years of ISWC: Time flies when you're having fun_](/papers/pdf/martin2021years.pdf). Martin, T and Starner, T and Siewiorek, D and Kunze, K and Laerhoven, K Van. IEEE Pervasive Computing 20 (3). 2021. [Bibtex](/papers/bib/martin2021years.bib). 
 
 ***
 [_25 Years of ISWC_](/papers/pdf/martin202125.pdf). Martin, Tom and Starner, Thad and Siewiorek, Dan and Kunze, Kai and Van Laerhoven, Kristof. IEEE Pervasive Computing. 2021. [Bibtex](/papers/bib/martin202125.bib).  [Mp3 summary](/audio/mp3s/martin202125.mp3). 
@@ -257,7 +254,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Investigating Usability and User Experience of Individually Verifiable Internet Voting Schemes_](/papers/pdf/marky2021investigating.pdf). Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2021. [Bibtex](/papers/bib/marky2021investigating.bib).  [Mp3 summary](/audio/mp3s/marky2021investigating.mp3). 
 
 ***
-[_Ethereal Phenomena_](/papers/pdf/malaver2021ethereal.pdf). Malaver, S and Nieto, N and Segrovets, I and Rizzi, C and Chernyshov, G and Kim, C and Kunze, K. SIGGRAPH Asia 2021 Art Gallery, 1-1. 2021. [Bibtex](/papers/bib/malaver2021ethereal.bib). 
+[_Ethereal Phenomena_](/papers/pdf/malaver2021ethereal.pdf). Malaver, S and Nieto, N and Segrovets, I and Rizzi, C and Chernyshov, G and Kim, C and Kunze, K. SIGGRAPH Asia 2021 Art Gallery. 2021. [Bibtex](/papers/bib/malaver2021ethereal.bib). 
 
 ***
 [_Poster: A Participatory Workshop to Design Vibrothermal Haptics of a Smart Fidget Surface for Remote Workers_](/papers/pdf/lee2021poster.pdf). Lee, Yuyu and Kunze, Kai. Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers. 2021. [Bibtex](/papers/bib/lee2021poster.bib).  [Mp3 summary](/audio/mp3s/lee2021poster.mp3). 
@@ -287,7 +284,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Aromacue-a scent toolkit to cope with stress using the 4-7-8 breathing method_](/papers/pdf/lin2020aromacue.pdf). Lin, Zilan and Kunze, Kai and Ueki, Atsuro and Inakage, Masa. Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2020. [Bibtex](/papers/bib/lin2020aromacue.bib). 
 
 ***
-[_Genvibe: exploration of interactive generation of personal vibrotactile patterns_](/papers/pdf/pescara2020genvibe.pdf). Pescara, Erik and Dreschner, Florian and Marky, Karola and Kunze, Kai and Beigl, Michael. Proceedings of the Augmented Humans International Conference, 1-9. 2020. [Bibtex](/papers/bib/pescara2020genvibe.bib). 
+[_Genvibe: exploration of interactive generation of personal vibrotactile patterns_](/papers/pdf/pescara2020genvibe.pdf). Pescara, Erik and Dreschner, Florian and Marky, Karola and Kunze, Kai and Beigl, Michael. Proceedings of the Augmented Humans International Conference. 2020. [Bibtex](/papers/bib/pescara2020genvibe.bib). 
 
 ***
 [_Collaborative learning \\& co-creation in XR_](/papers/pdf/vasilchenko2020collaborative.pdf). Vasilchenko, Anna and Li, Jie and Ryskeldiev, Bektur and Sarcar, Sayan and Ochiai, Yoichi and Kunze, Kai and Radu, Iulian. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/vasilchenko2020collaborative.bib).  [Mp3 summary](/audio/mp3s/vasilchenko2020collaborative.mp3). 
@@ -335,7 +332,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Continuous alertness assessments: Using EOG glasses to unobtrusively monitor fatigue levels In-The-Wild_](/papers/pdf/tag2019continuous.pdf). Tag, Benjamin and Vargo, Andrew W and Gupta, Aman and Chernyshov, George and Kunze, Kai and Dingler, Tilman. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. 2019. [Bibtex](/papers/bib/tag2019continuous.bib).  [Mp3 summary](/audio/mp3s/tag2019continuous.mp3). 
 
 ***
-[_Heatsense–thermal sensory supplementation for superhuman sports_](/papers/pdf/ragozin2019heatsense.pdf). Ragozin, K and Chernyshov, G and Kunze, K. 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 1831-1833. 2019. [Bibtex](/papers/bib/ragozin2019heatsense.bib). 
+[_Heatsense–thermal sensory supplementation for superhuman sports_](/papers/pdf/ragozin2019heatsense.pdf). Ragozin, K and Chernyshov, G and Kunze, K. 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). 2019. [Bibtex](/papers/bib/ragozin2019heatsense.bib). 
 
 ***
 [_ISWC 2018: Towards Smarter Wearable Technologies That Blend With Our Bodies_](/papers/pdf/peiris2019iswc.pdf). Peiris, Roshan and Starner, Thad and Beigl, Michael and Kunze, Kai. IEEE Pervasive Computing. 2019. [Bibtex](/papers/bib/peiris2019iswc.bib).  [Mp3 summary](/audio/mp3s/peiris2019iswc.mp3). 
@@ -428,7 +425,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Armswing: using arm swings for accessible and immersive navigation in AR/VR spaces_](/papers/pdf/pai2017armswing.pdf). Pai, Yun Suen and Kunze, Kai. Proceedings of the 16th International Conference on Mobile and Ubiquitous Multimedia. 2017. [Bibtex](/papers/bib/pai2017armswing.bib).  [Mp3 summary](/audio/mp3s/pai2017armswing.mp3). 
 
 ***
-[_IoT 2016_](/papers/pdf/michahelles2017iot.pdf). Michahelles, F and Ilic, A and Kunze, K and Kritzler, M and Schneegass, S. IEEE Pervasive Computing 16 (2), 87-89. 2017. [Bibtex](/papers/bib/michahelles2017iot.bib). 
+[_IoT 2016_](/papers/pdf/michahelles2017iot.pdf). Michahelles, F and Ilic, A and Kunze, K and Kritzler, M and Schneegass, S. IEEE Pervasive Computing 16 (2). 2017. [Bibtex](/papers/bib/michahelles2017iot.bib). 
 
 ***
 [_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](/papers/bib/masai2017evaluation.bib).  [Mp3 summary](/audio/mp3s/masai2017evaluation.mp3). 
@@ -446,7 +443,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Towards reading trackers in the wild: detecting reading activities by EOG glasses and deep neural networks_](/papers/pdf/ishimaru2017towards.pdf). Ishimaru, Shoya and Hoshika, Kensuke and Kunze, Kai and Kise, Koichi and Dengel, Andreas. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2017. [Bibtex](/papers/bib/ishimaru2017towards.bib).  [Mp3 summary](/audio/mp3s/ishimaru2017towards.mp3). 
 
 ***
-[_A Dagstuhl Seminar Looks beyond Virtual and Augmented Reality_](/papers/pdf/henze2017dagstuhl.pdf). Henze, N and Kunze, K. IEEE MultiMedia 24 (2), 14-17. 2017. [Bibtex](/papers/bib/henze2017dagstuhl.bib). 
+[_A Dagstuhl Seminar Looks beyond Virtual and Augmented Reality_](/papers/pdf/henze2017dagstuhl.pdf). Henze, N and Kunze, K. IEEE MultiMedia 24 (2). 2017. [Bibtex](/papers/bib/henze2017dagstuhl.bib). 
 
 ***
 [_atmoSphere: designing cross-modal music experiences using spatial audio with haptic feedback_](/papers/pdf/fushimi2017atmosphere.pdf). Fushimi, Haruna and Kato, Daiya and Kamiyama, Youichi and Yanagihara, Kazuya and Minamizawa, Kouta and Kunze, Kai. ACM SIGGRAPH 2017 Emerging Technologies. 2017. [Bibtex](/papers/bib/fushimi2017atmosphere.bib).  [Mp3 summary](/audio/mp3s/fushimi2017atmosphere.mp3). 
