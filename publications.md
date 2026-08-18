@@ -119,13 +119,16 @@ date: 2020-04-16T12:07:18+09:00
 [_"Speech is Silver, Silence is Golden" Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides_](/papers/pdf/barbareschi2024speech.pdf). Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. [Bibtex](/papers/bib/barbareschi2024speech.bib).  [Mp3 summary](/audio/mp3s/barbareschi2024speech.mp3). 
 
 ***
+[_Movement Quality Visualization for Wheelchair Dance_](/papers/pdf/xie2023movement.pdf). Xie, Yurui and Barbareschi, Giulia and Nabila, Ayesha and Kunze, Kai and Inakage, Masa. Proceedings of the ACM on Computer Graphics and Interactive Techniques. 2023. [Bibtex](/papers/bib/xie2023movement.bib).  [Mp3 summary](/audio/mp3s/xie2023movement.mp3). 
+
+***
 [_Exploring Digital Embodiment in Wheelchair Dance with Generative AI_](/papers/pdf/xie2023exploring.pdf). Xie, Yurui and Barbareschi, Giulia and Kunze, Kai and Inakage, Masa. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/xie2023exploring.bib). 
 
 ***
-[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2023. [Bibtex](/papers/bib/vega2023augmented.bib).  [Mp3 summary](/audio/mp3s/vega2023augmented.mp3). 
+[_Augmented Humans: Cyborg visions of the future_](/papers/pdf/vega2023augmented.pdf). Vega, Katia and Kunze, Kai. XRDS: Crossroads, The ACM Magazine for Students. 2022. [Bibtex](/papers/bib/vega2023augmented.bib).  [Mp3 summary](/audio/mp3s/vega2023augmented.mp3). 
 
 ***
-[_Feel What You Don’t Hear: A New Framework for Non-Aural Music Experiences_](/papers/pdf/uyama2023feel.pdf). Uyama, Aoi and Hynds, Danny and Zheng, Dingding and Chernyshov, George and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the International Conference on New Interfaces for Musical Expression. 2023. [Bibtex](/papers/bib/uyama2023feel.bib).  [Mp3 summary](/audio/mp3s/uyama2023feel.mp3). 
+[_Feel What You Don’t Hear: A New Framework for Non-aural Music Experiences_](/papers/pdf/uyama2023feel.pdf). Uyama, Aoi and Hynds, Danny and Zheng, Dingding and Chernyshov, George and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the International Conference on New Interfaces for Musical Expression. 2023. [Bibtex](/papers/bib/uyama2023feel.bib).  [Mp3 summary](/audio/mp3s/uyama2023feel.mp3). 
 
 ***
 [_iOT device design for rapid detection of Alzheimer inducing P. gingivalis bacteria_](/papers/pdf/szyszka2023iot.pdf). Szyszka, Ewa and Yi, Yiejun and Lee, Yekyung and Lee, Katrina and Kunze, Kai. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/szyszka2023iot.bib).  [Mp3 summary](/audio/mp3s/szyszka2023iot.mp3). 
@@ -140,7 +143,7 @@ date: 2020-04-16T12:07:18+09:00
 [_First Bite/Chew: distinguish typical allergic food by two IMUs_](/papers/pdf/li2023first.pdf). Li, Juling and Wang, Xiongqi and Chen, Junyu and Starner, Thad and Chernyshov, George and Huang, Jing and Huang, Yifei and Kunze, Kai and Zhang, Qing. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/li2023first.bib).  [Mp3 summary](/audio/mp3s/li2023first.mp3). 
 
 ***
-[_Cognitive Augmentation (Dagstuhl Seminar 22491)_](/papers/pdf/kunze2023cognitive.pdf). Kunze, K and Maes, P and Mueller, FF and Wolf, K. Dagstuhl Reports 12 (12). 2023. [Bibtex](/papers/bib/kunze2023cognitive.bib). 
+[_Cognitive Augmentation (Dagstuhl Seminar 22491)_](/papers/pdf/kunze2023cognitive.pdf). Kunze, Kai and Maes, Pattie and Mueller, Florian 'Floyd' and Wolf, Katrin. Dagstuhl Reports. 2023. [Bibtex](/papers/bib/kunze2023cognitive.bib). 
 
 ***
 [_Soma Express Kit: Understanding the Somaesthetic Experience of People with Visual Impairment: Soma Express Kit_](/papers/pdf/kanda2023soma.pdf). Kanda, Michi and Kunze, Kai. Proceedings of the 13th International Conference on the Internet of Things. 2023. [Bibtex](/papers/bib/kanda2023soma.bib).  [Mp3 summary](/audio/mp3s/kanda2023soma.mp3). 
@@ -152,13 +155,10 @@ date: 2020-04-16T12:07:18+09:00
 [_Phantom Undulations: Remote Physiological Sensing in Abstract Installation Works_](/papers/pdf/hynds2023phantom.pdf). Hynds, Danny and Zheng, Dingding and Zhang, Yilin and Ma, Hua and Ragozin, Kirill and Chernyshov, George and Ward, Jamie A and Saito, Tatsuya and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Augmented Humans International Conference 2023. 2023. [Bibtex](/papers/bib/hynds2023phantom.bib).  [Mp3 summary](/audio/mp3s/hynds2023phantom.mp3). 
 
 ***
-[_Innermost Echoes_](/papers/pdf/hynds2023innermost.pdf). Hynds, D and Chernyshov, G and Zheng, D and Uyama, A and Li, J and Matsumoto, K and Pogorzhelskiy, M and Kunze, K and Ward, J and Minamizawa, K. Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2023. [Bibtex](/papers/bib/hynds2023innermost.bib). 
-
-***
 [_Detecting an Offset-Adjusted Similarity Score based on Duchenne Smiles_](/papers/pdf/henneberg2023detecting.pdf). Henneberg, Maximilian and Eghtebas, Chloe and De Candido, Oliver and Kunze, Kai and Ward, Jamie A. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/henneberg2023detecting.bib).  [Mp3 summary](/audio/mp3s/henneberg2023detecting.mp3). 
 
 ***
-[_Ubicomp Tutorial-UbiCHAI-Experimental Methodologies for Cognitive Human Augmentation_](/papers/pdf/grunerbl2023ubicomp.pdf). Gr{\"u}nerbl, Agnes and Kunze, Kai and Lachmann, Thomas and Ward, Jamie A and Lukowicz, Paul. Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing \\& the 2023 ACM International Symposium on Wearable Computing. 2023. [Bibtex](/papers/bib/grunerbl2023ubicomp.bib).  [Mp3 summary](/audio/mp3s/grunerbl2023ubicomp.mp3). 
+[_Ubicomp Tutorial-UbiCHAI-Experimental Methodologies for Cognitive Human Augmentation_](/papers/pdf/grunerbl2023ubicomp.pdf). Gr{\"u}nerbl, Agnes and Kunze, Kai and Lachmann, Thomas and Ward, Jamie A and Lukowicz, Paul. Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing \& the 2023 ACM International Symposium on Wearable Computing. 2023. [Bibtex](/papers/bib/grunerbl2023ubicomp.bib).  [Mp3 summary](/audio/mp3s/grunerbl2023ubicomp.mp3). 
 
 ***
 [_First Bite/Chew: distinguish different types of food by first biting/chewing and the corresponding hand movement_](/papers/pdf/chen2023first.pdf). Chen, Junyu and Wang, Xiongqi and Li, Juling and Chernyshov, George and Huang, Yifei and Kunze, Kai and Huang, Jing and Starner, Thad and Zhang, Qing. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems. 2023. [Bibtex](/papers/bib/chen2023first.bib).  [Mp3 summary](/audio/mp3s/chen2023first.mp3). 
@@ -182,16 +182,28 @@ date: 2020-04-16T12:07:18+09:00
 [_GazeSync: Eye Movement Transfer Using an Optical Eye Tracker and Monochrome Liquid Crystal Displays_](/papers/pdf/zhang2022gazesync.pdf). Zhang, Qing and Huang, Yifei and Chernyshov, George and Li, Juling and Pai, Yun Suen and Kunze, Kai. 27th International Conference on Intelligent User Interfaces. 2022. [Bibtex](/papers/bib/zhang2022gazesync.bib).  [Mp3 summary](/audio/mp3s/zhang2022gazesync.mp3). 
 
 ***
-_Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and others. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
+_Experience Visual Impairment via Optical See-through Smart Glasses_. Zhang, Qing and Wang, Xiongqi and Starner, Thad and Huang, Yifei and Chernyshov, George and Barbareschi, Giulia and Pai, Yun Suen and Huang, Jing and Yamaoka, Junichi and Ward, Jamie and Kunze, Kai. Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. [Bibtex](/papers/bib/zhang2022experience.bib). 
+
+***
+[_Towards Underwater Augmented Reality Interfaces to Improve the Navigation Experience_](/papers/pdf/szyszka2022towards.pdf). Szyszka, Ewa Anna and Kunze, Kai. Augmented Humans 2022. 2022. [Bibtex](/papers/bib/szyszka2022towards.bib).  [Mp3 summary](/audio/mp3s/szyszka2022towards.mp3). 
 
 ***
 [_What we talk about when we talk about human-computer integration_](/papers/pdf/semertzidis2022what.pdf). Semertzidis, N and Fang, Z and Lopes, P and Kunze, K and Pangaro, P and Mueller, F and Maes, P. CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. [Bibtex](/papers/bib/semertzidis2022what.bib). 
 
 ***
-[_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib).  [Mp3 summary](/audio/mp3s/semertzidis2022human.mp3). 
+[_Human--Computer Integration: Towards Integrating the Human Body with the Computational Machine_](/papers/pdf/semertzidis2022human.pdf). ‘Floyd’ Mueller, Florian and Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and Maes, Pattie and Wang, Dakuo and Wolf, Katrin and Gerber, Liz and Marshall, Joe and Kunze, Kai and Grudin, Jonathan and Reiterer, Harald and Byrne, Richard. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. [Bibtex](/papers/bib/semertzidis2022human.bib).  [Mp3 summary](/audio/mp3s/semertzidis2022human.mp3). 
 
 ***
 _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joelle and Billinghurst, Mark and Kunze, Kai and Li, Jie and Williamson, Julie. 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). 2022. [Bibtex](/papers/bib/ryskeldiev2022design.bib). 
+
+***
+[_EyeMove-Towards Mobile Authentication using EOG Glasses_](/papers/pdf/ragozin2022eyemove.pdf). Ragozin, Kirill and Marky, Karola and Lu, Jie and Kunze, Kai. Augmented Humans 2022. 2022. [Bibtex](/papers/bib/ragozin2022eyemove.bib).  [Mp3 summary](/audio/mp3s/ragozin2022eyemove.mp3). 
+
+***
+[_Embodied Noise--Towards Augmenting the Dart-Throwing Practice over a Sleeve with Randomized Haptic Actuation_](/papers/pdf/nakao2022embodied.pdf). Nakao, Takuro and Tsuchiya, Keitaro and Shimizu, Shinya and Isogai, Megumi and Kunze, Kai. Augmented Humans 2022. 2022. [Bibtex](/papers/bib/nakao2022embodied.bib).  [Mp3 summary](/audio/mp3s/nakao2022embodied.mp3). 
+
+***
+[_ImageFlowing-Enhance Emotional Expression by Reproducing the Vital Signs of the Photographer_](/papers/pdf/mu2022imageflowing.pdf). Mu, Qianqian and Chernyshov, George and Wang, Ziyue and Hynds, Danny and Zheng, Dingding and Minamizawa, Kouta and Chen, Dunya and Ueki, Atsuro and Inakage, Masa and Kunze, Kai. ACM SIGGRAPH 2022 Emerging Technologies. 2022. [Bibtex](/papers/bib/mu2022imageflowing.bib).  [Mp3 summary](/audio/mp3s/mu2022imageflowing.mp3). 
 
 ***
 [_ThermalDrive-Towards Situation Awareness over Thermal Feedback in Automated Driving Scenarios_](/papers/pdf/meng2022thermaldrive.pdf). Meng, Xiaru and Han, Jiawen and Chernyshov, George and Ragozin, Kirill and Kunze, Kai. 27th International Conference on Intelligent User Interfaces. 2022. [Bibtex](/papers/bib/meng2022thermaldrive.bib).  [Mp3 summary](/audio/mp3s/meng2022thermaldrive.mp3). 
@@ -203,13 +215,13 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Ethereal Phenomena-Interactive Art, Meditation, and Breathing Biofeedback: From Mind and Body Wellness Towards Self-Transcendence_](/papers/pdf/malaver2022ethereal.pdf). Malaver Turbay, Silvana and Segrovets, Igor Igorevich and Chernyshov, George and Han, Jiawen and Kim, Christopher Changmok and Kunze, Kai. Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2022. [Bibtex](/papers/bib/malaver2022ethereal.bib).  [Mp3 summary](/audio/mp3s/malaver2022ethereal.mp3). 
 
 ***
-[_Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances_](/papers/pdf/he2022frisson.pdf). He, Yan and Chernyshov, George and Han, Jiawen and Zheng, Dingding and Thomsen, Ragnar and Hynds, Danny and Liu, Muyu and Yang, Yuehui and Ju, Yulan and Pai, Yun Suen and others. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2022. [Bibtex](/papers/bib/he2022frisson.bib).  [Mp3 summary](/audio/mp3s/he2022frisson.mp3). 
+[_Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances_](/papers/pdf/he2022frisson.pdf). He, Yan and Chernyshov, George and Han, Jiawen and Zheng, Dingding and Thomsen, Ragnar and Hynds, Danny and Liu, Muyu and Yang, Yuehui and Ju, Yulan and Pai, Yun Suen and Minamizawa, Kouta and Kunze, Kai and Ward, Jamie A.. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2022. [Bibtex](/papers/bib/he2022frisson.bib).  [Mp3 summary](/audio/mp3s/he2022frisson.mp3). 
 
 ***
-[_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. [Bibtex](/papers/bib/han2022linking.bib).  [Mp3 summary](/audio/mp3s/han2022linking.mp3). 
+[_Linking Audience Physiology to Choreography_](/papers/pdf/han2022linking.pdf). Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani Macieira, Marcelo and Marky, Karola and Minamizawa, Kouta and Ward, Jamie A. and Kunze, Kai. ACM Transactions on Computer-Human Interaction. 2023. [Bibtex](/papers/bib/han2022linking.bib).  [Mp3 summary](/audio/mp3s/han2022linking.mp3). 
 
 ***
-[_Toolkits \\& Wearables: Developing Toolkits for Exploring Wearable Designs_](/papers/pdf/genc2022toolkits.pdf). Genc, Caglar and Buruk, Oguz'Oz and Jabari, Shiva and Jones, Lee and Ragozin, Kirill and Hartman, Kate and Virkki, Johanna and Kunze, Kai and Juhlin, Oskar and H{\"a}kkil{\"a}, Jonna. CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. [Bibtex](/papers/bib/genc2022toolkits.bib).  [Mp3 summary](/audio/mp3s/genc2022toolkits.mp3). 
+[_Toolkits \& Wearables: Developing Toolkits for Exploring Wearable Designs_](/papers/pdf/genc2022toolkits.pdf). Genc, Caglar and Buruk, Oguz'Oz and Jabari, Shiva and Jones, Lee and Ragozin, Kirill and Hartman, Kate and Virkki, Johanna and Kunze, Kai and Juhlin, Oskar and H{\"a}kkil{\"a}, Jonna. CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. [Bibtex](/papers/bib/genc2022toolkits.bib).  [Mp3 summary](/audio/mp3s/genc2022toolkits.mp3). 
 
 ***
 [_Towards Applying Pneumatic Gel Muscles to Augment Plantar Flexor Muscle Stretching for Children with Cerebral Palsy_](/papers/pdf/chen2022towards.pdf). Chen, Zilan and Wang, Sujuan and Das, Swagata and Kurita, Yuichi and Goto, Takashi and Zhai, Chun and Xu, Lei and Kunze, Kai. Augmented Humans 2022. 2022. [Bibtex](/papers/bib/chen2022towards.bib).  [Mp3 summary](/audio/mp3s/chen2022towards.mp3). 
@@ -227,7 +239,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities_](/papers/pdf/sugawa2021boiling.pdf). Sugawa, Moe and Furukawa, Taichi and Chernyshov, George and Hynds, Danny and Han, Jiawen and Padovani, Marcelo and Zheng, Dingding and Marky, Karola and Kunze, Kai and Minamizawa, Kouta. Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2021. [Bibtex](/papers/bib/sugawa2021boiling.bib).  [Mp3 summary](/audio/mp3s/sugawa2021boiling.mp3). 
 
 ***
-[_SIGHInt: Special Interest Group for Human-Computer Integration_](/papers/pdf/semertzidis2021sighint.pdf). Semertzidis, Nathan Arthur and Scary, Michaela and Fang, Xiao and Wang, Xinyi and Patibanda, Rakesh and Andres, Josh and Strohmeier, Paul and Kunze, Kai and Lopes, Pedro and Zambetta, Fabio and others. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/semertzidis2021sighint.bib).  [Mp3 summary](/audio/mp3s/semertzidis2021sighint.mp3). 
+[_SIGHInt: Special Interest Group for Human-Computer Integration_](/papers/pdf/semertzidis2021sighint.pdf). Semertzidis, Nathan Arthur and Vranic-Peters, Michaela and Fang, Xiao and Wang, Xinyi and Patibanda, Rakesh and Andres, Josh and Strohmeier, Paul and Kunze, Kai and Lopes, Pedro and Zambetta, Fabio and Mueller, Florian Floyd. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/semertzidis2021sighint.bib).  [Mp3 summary](/audio/mp3s/semertzidis2021sighint.mp3). 
 
 ***
 [_Body As Starting Point 4: Inbodied Interaction Design for Health Ownership._](/papers/pdf/schraefel2021body.pdf). Schraefel, MC and Andr{\'e}s, Josh and Tabor, Aaron and Bateman, Scott and Wanyu Liu, Abby and Jones, Mike and Kunze, Kai and Murnane, Elizabeth and Villa, Steeven. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/schraefel2021body.bib).  [Mp3 summary](/audio/mp3s/schraefel2021body.mp3). 
@@ -269,13 +281,19 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Haptic Empathy: Conveying Emotional Meaning through Vibrotactile Feedback_](/papers/pdf/ju2021haptic.pdf). Ju, Yulan and Zheng, Dingding and Hynds, Danny and Chernyshov, George and Kunze, Kai and Minamizawa, Kouta. Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems. 2021. [Bibtex](/papers/bib/ju2021haptic.bib).  [Mp3 summary](/audio/mp3s/ju2021haptic.mp3). 
 
 ***
+[_Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances_](/papers/pdf/he2021frisson.pdf). He, Yan and Chernyshov, George and Zheng, Dingding and Han, Jiawen and Thomsen, Ragnar and Hynds, Danny and Yang, Yuehui and Pai, Yun Suen and Kunze, Kai and Minamizawa, Kouta. SIGGRAPH Asia 2021 Emerging Technologies. 2021. [Bibtex](/papers/bib/he2021frisson.bib).  [Mp3 summary](/audio/mp3s/he2021frisson.mp3). 
+
+***
 [_Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning_](/papers/pdf/han2021exploring.pdf). Han, Jiawen and Yang, Chi-Lan and Chernyshov, George and Fu, Zhuoqi and Horii, Reiya and Narumi, Takuji and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/han2021exploring.bib).  [Mp3 summary](/audio/mp3s/han2021exploring.mp3). 
 
 ***
-[_Boiling Mind-A Dataset of Physiological Signals during an Exploratory Dance Performance_](/papers/pdf/fu2021boiling.pdf). Fu, Zhuoqi and Han, Jiawen and Zheng, Dingding and Sugawa, Moe and Furukawa, Taichi and George, Chernyshov and Danny, Hynds and Marcelo, Padovani and Karola, Marky and Minamizawa, Kouta and others. Augmented Humans Conference 2021. 2021. [Bibtex](/papers/bib/fu2021boiling.bib).  [Mp3 summary](/audio/mp3s/fu2021boiling.mp3). 
+[_Boiling Mind-A Dataset of Physiological Signals during an Exploratory Dance Performance_](/papers/pdf/fu2021boiling.pdf). Fu, Zhuoqi and Han, Jiawen and Zheng, Dingding and Sugawa, Moe and Furukawa, Taichi and George, Chernyshov and Danny, Hynds and Marcelo, Padovani and Karola, Marky and Minamizawa, Kouta and Ward, Jamie A and Kunze, Kai. Augmented Humans Conference 2021. 2021. [Bibtex](/papers/bib/fu2021boiling.bib).  [Mp3 summary](/audio/mp3s/fu2021boiling.mp3). 
 
 ***
 [_Affective Umbrella--Towards a Novel Sensor Integrated Multimedia Platform Using Electrodermal and Heart Activity in an Umbrella Handle_](/papers/pdf/chen2021affective.pdf). Chen, Kanyu and Han, Jiawen and Chernyshov, George and Kim, Christopher and Rasa, Ismael and Kunze, Kai. 20th International Conference on Mobile and Ubiquitous Multimedia. 2021. [Bibtex](/papers/bib/chen2021affective.bib).  [Mp3 summary](/audio/mp3s/chen2021affective.mp3). 
+
+***
+[_BridgedReality: A Toolkit Connecting Physical and Virtual Spaces through Live Holographic Point Cloud Interaction_](/papers/pdf/armstrong2021bridgedreality.pdf). Armstrong, Mark and Quest, Lawrence and Pai, Yun Suen and Kunze, Kai and Minamizawa, Kouta. SIGGRAPH Asia 2021 Posters. 2021. [Bibtex](/papers/bib/armstrong2021bridgedreality.bib).  [Mp3 summary](/audio/mp3s/armstrong2021bridgedreality.mp3). 
 
 ***
 [_Pleasant Locomotion--Towards Reducing Cybersickness using fNIRS during Walking Events in VR_](/papers/pdf/yamamura2020pleasant.pdf). Yamamura, Hiroo and Baldauf, Holger and Kunze, Kai. Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology. 2020. [Bibtex](/papers/bib/yamamura2020pleasant.bib).  [Mp3 summary](/audio/mp3s/yamamura2020pleasant.mp3). 
@@ -287,7 +305,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Genvibe: exploration of interactive generation of personal vibrotactile patterns_](/papers/pdf/pescara2020genvibe.pdf). Pescara, Erik and Dreschner, Florian and Marky, Karola and Kunze, Kai and Beigl, Michael. Proceedings of the Augmented Humans International Conference. 2020. [Bibtex](/papers/bib/pescara2020genvibe.bib). 
 
 ***
-[_Collaborative learning \\& co-creation in XR_](/papers/pdf/vasilchenko2020collaborative.pdf). Vasilchenko, Anna and Li, Jie and Ryskeldiev, Bektur and Sarcar, Sayan and Ochiai, Yoichi and Kunze, Kai and Radu, Iulian. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/vasilchenko2020collaborative.bib).  [Mp3 summary](/audio/mp3s/vasilchenko2020collaborative.mp3). 
+[_Collaborative learning \& co-creation in XR_](/papers/pdf/vasilchenko2020collaborative.pdf). Vasilchenko, Anna and Li, Jie and Ryskeldiev, Bektur and Sarcar, Sayan and Ochiai, Yoichi and Kunze, Kai and Radu, Iulian. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/vasilchenko2020collaborative.bib).  [Mp3 summary](/audio/mp3s/vasilchenko2020collaborative.mp3). 
 
 ***
 [_Visuomotor Influence of Attached Robotic Neck Augmentation_](/papers/pdf/shen2020visuomotor.pdf). Shen, Lichao and Saraiji, MHD Yamen and Kunze, Kai and Minamizawa, Kouta and Peiris, Roshan Lalintha. Symposium on Spatial User Interaction. 2020. [Bibtex](/papers/bib/shen2020visuomotor.bib).  [Mp3 summary](/audio/mp3s/shen2020visuomotor.mp3). 
@@ -296,13 +314,13 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_MazeRunVR: An Open Benchmark for VR Locomotion Performance, Preference and Sickness in the Wild_](/papers/pdf/ragozin2020mazerunvr.pdf). Ragozin, Kirill and Kunze, Kai and Marky, Karola and Pai, Yun Suen. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/ragozin2020mazerunvr.bib).  [Mp3 summary](/audio/mp3s/ragozin2020mazerunvr.mp3). 
 
 ***
-[_Motor memory in HCI_](/papers/pdf/patibanda2020motor.pdf). Patibanda, Rakesh and Semertzidis, Nathan Arthur and Scary, Michaela and La Delfa, Joseph Nathan and Andres, Josh and Bayta{\c{s}}, Mehmet Aydin and Martin-Niedecken, Anna Lisa and Strohmeier, Paul and Fruchard, Bruno and Leigh, Sang-won and others. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/patibanda2020motor.bib).  [Mp3 summary](/audio/mp3s/patibanda2020motor.mp3). 
+[_Motor Memory in HCI_](/papers/pdf/patibanda2020motor.pdf). Patibanda, Rakesh and Semertzidis, Nathan Arthur and Vranic-Peters, Michaela and La Delfa, Joseph Nathan and Andres, Josh and Baytaş, Mehmet Aydin and Martin-Niedecken, Anna Lisa and Strohmeier, Paul and Fruchard, Bruno and Leigh, Sang-won and Mekler, Elisa D. and Nanayakkara, Suranga and Wiemeyer, Josef and Berthouze, Nadia and Kunze, Kai and Rikakis, Thanassis and Kelliher, Aisling and Warwick, Kevin and van den Hoven, Elise and Mueller, Florian Floyd and Mann, Steve. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020. [Bibtex](/papers/bib/patibanda2020motor.bib).  [Mp3 summary](/audio/mp3s/patibanda2020motor.mp3). 
 
 ***
 [_FingerFlex: Shape Memory Alloy-based Actuation on Fingers for Kinesthetic Haptic Feedback_](/papers/pdf/nakao2020fingerflex.pdf). Nakao, Takuro and Kunze, Kai and Isogai, Megumi and Shimizu, Shinya and Pai, Yun Suen. 19th International Conference on Mobile and Ubiquitous Multimedia. 2020. [Bibtex](/papers/bib/nakao2020fingerflex.bib).  [Mp3 summary](/audio/mp3s/nakao2020fingerflex.mp3). 
 
 ***
-[_Next Steps in Human-Computer Integration_](/papers/pdf/mueller2020next.pdf). Mueller, Florian'Floyd' and Lopes, Pedro and Strohmeier, Paul and Ju, Wendy and Seim, Caitlyn and Weigel, Martin and Nanayakkara, Suranga and Obrist, Marianna and Li, Zhuying and Delfa, Joseph and others. CHI 2020. 2020. [Bibtex](/papers/bib/mueller2020next.bib).  [Mp3 summary](/audio/mp3s/mueller2020next.mp3). 
+[_Next Steps for Human-Computer Integration_](/papers/pdf/mueller2020next.pdf). Mueller, Florian Floyd and Lopes, Pedro and Strohmeier, Paul and Ju, Wendy and Seim, Caitlyn and Weigel, Martin and Nanayakkara, Suranga and Obrist, Marianna and Li, Zhuying and Delfa, Joseph and Nishida, Jun and Gerber, Elizabeth M. and Svanaes, Dag and Grudin, Jonathan and Greuter, Stefan and Kunze, Kai and Erickson, Thomas and Greenspan, Steven and Inami, Masahiko and Marshall, Joe and Reiterer, Harald and Wolf, Katrin and Meyer, Jochen and Schiphorst, Thecla and Wang, Dakuo and Maes, Pattie. CHI 2020. 2020. [Bibtex](/papers/bib/mueller2020next.bib).  [Mp3 summary](/audio/mp3s/mueller2020next.mp3). 
 
 ***
 [_Face Commands-User-Defined Facial Gestures for Smart Glasses_](/papers/pdf/masai2020face.pdf). Masai, Katsutoshi and Kunze, Kai and Sakamoto, Daisuke and Sugiura, Yuta and Sugimoto, Maki. 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). 2020. [Bibtex](/papers/bib/masai2020face.bib).  [Mp3 summary](/audio/mp3s/masai2020face.mp3). 
@@ -338,6 +356,9 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_ISWC 2018: Towards Smarter Wearable Technologies That Blend With Our Bodies_](/papers/pdf/peiris2019iswc.pdf). Peiris, Roshan and Starner, Thad and Beigl, Michael and Kunze, Kai. IEEE Pervasive Computing. 2019. [Bibtex](/papers/bib/peiris2019iswc.bib).  [Mp3 summary](/audio/mp3s/peiris2019iswc.mp3). 
 
 ***
+[_ShareHaptics: a modular haptic feedback system using shape memory alloy for mixed reality shared space applications_](/papers/pdf/nakao2019sharehaptics.pdf). Nakao, Takuro and Santana, Stevanus Kevin and Isogai, Megumi and Shimizu, Shinya and Kimata, Hideaki and Kunze, Kai and Pai, Yun Suen. ACM SIGGRAPH 2019 Posters. 2019. [Bibtex](/papers/bib/nakao2019sharehaptics.bib).  [Mp3 summary](/audio/mp3s/nakao2019sharehaptics.mp3). 
+
+***
 [_Eye-based Interaction Using Embedded Optical Sensors on an Eyewear Device for Facial Expression Recognition_](/papers/pdf/masai2020eye.pdf). Masai, Katsutoshi and Kunze, Kai and Sugimoto, Maki. Augmented Humans 2020. 2019. [Bibtex](/papers/bib/masai2020eye.bib).  [Mp3 summary](/audio/mp3s/masai2020eye.mp3). 
 
 ***
@@ -350,7 +371,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Accelerating Skill Acquisition of Two-Handed Drumming using Pneumatic Artificial Muscles_](/papers/pdf/goto2020accelerating.pdf). Goto and Takashi Das, Swagata and Wolf, Katrin and Lopes, Pedro and Kurita, Yuichi and Kunze, Kai. Augmented Humans 2020. 2019. [Bibtex](/papers/bib/goto2020accelerating.bib).  [Mp3 summary](/audio/mp3s/goto2020accelerating.mp3). 
 
 ***
-[_Automated data gathering and training tool for personalized" Itchy Nose"_](/papers/pdf/yeo2018automated.pdf). Yeo, Hui Shyong and Starner, Thad and Quigley, Aaron John and Kunze, Kai and Woo, Woontack and others. AH'18 Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](/papers/bib/yeo2018automated.bib).  [Mp3 summary](/audio/mp3s/yeo2018automated.mp3). 
+[_Automated data gathering and training tool for personalized" Itchy Nose"_](/papers/pdf/yeo2018automated.pdf). Lee, Juyoung and Yeo, Hui-Shyong and Starner, Thad and Quigley, Aaron and Kunze, Kai and Woo, Woontack. AH'18 Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](/papers/bib/yeo2018automated.bib).  [Mp3 summary](/audio/mp3s/yeo2018automated.mp3). 
 
 ***
 [_Eyewear 2018: Second workshop on eyewear computing_](/papers/pdf/tag2018eyewear.pdf). Tag, Benjamin and Holz, Christian and Lukowicz, Paul and Augereau, Olivier and Uema, Yuji and Kunze, Kai. UbiComp 2018 Adjunct Proceedings. 2018. [Bibtex](/papers/bib/tag2018eyewear.bib).  [Mp3 summary](/audio/mp3s/tag2018eyewear.mp3). 
@@ -365,7 +386,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Pinchmove: improved accuracy of user mobility for near-field navigation in virtual environments_](/papers/pdf/pai2018pinchmove.pdf). Pai, Yun Suen and Chen, Zikun and Chan, Liwei and Isogai, Megumi and Kimata, Hideaki and Kunze, Kai. Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services. 2018. [Bibtex](/papers/bib/pai2018pinchmove.bib).  [Mp3 summary](/audio/mp3s/pai2018pinchmove.mp3). 
 
 ***
-[_Anyorbit: orbital navigation in virtual environments with eye-tracking_](/papers/pdf/outram2018anyorbit.pdf). Outram, Benjamin I and Pai, Yun Suen and Person, Tanner and Minamizawa, Kouta and Kunze, Kai. Proceedings of the 2018 ACM Symposium on Eye Tracking Research \\& Applications. 2018. [Bibtex](/papers/bib/outram2018anyorbit.bib).  [Mp3 summary](/audio/mp3s/outram2018anyorbit.mp3). 
+[_Anyorbit: orbital navigation in virtual environments with eye-tracking_](/papers/pdf/outram2018anyorbit.pdf). Outram, Benjamin I and Pai, Yun Suen and Person, Tanner and Minamizawa, Kouta and Kunze, Kai. Proceedings of the 2018 ACM Symposium on Eye Tracking Research \& Applications. 2018. [Bibtex](/papers/bib/outram2018anyorbit.bib).  [Mp3 summary](/audio/mp3s/outram2018anyorbit.mp3). 
 
 ***
 [_Make-a-face: a hands-free, non-intrusive device for tongue/mouth/cheek input using EMG_](/papers/pdf/nakao2018make.pdf). Nakao, Takuro and Pai, Yun Suen and Isogai, Megumi and Kimata, Hideaki and Kunze, Kai. ACM SIGGRAPH 2018 Posters. 2018. [Bibtex](/papers/bib/nakao2018make.bib).  [Mp3 summary](/audio/mp3s/nakao2018make.mp3). 
@@ -485,7 +506,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 [_Smart glasses with a peripheral vision display_](/papers/pdf/nakuo2016smart.pdf). Nakuo, Takuro and Kunze, Kai. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. [Bibtex](/papers/bib/nakuo2016smart.bib).  [Mp3 summary](/audio/mp3s/nakuo2016smart.mp3). 
 
 ***
-[_Empathy Glasses_](/papers/pdf/masai2016empathy.pdf). Masai, Katsutoshi and Kunze, Kai and Billinghurst, Mark and others. Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016. [Bibtex](/papers/bib/masai2016empathy.bib).  [Mp3 summary](/audio/mp3s/masai2016empathy.mp3). 
+[_Empathy Glasses_](/papers/pdf/masai2016empathy.pdf). Masai, Katsutoshi and Kunze, Kai and sugimoto, Maki and Billinghurst, Mark. Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2016. [Bibtex](/papers/bib/masai2016empathy.bib).  [Mp3 summary](/audio/mp3s/masai2016empathy.mp3). 
 
 ***
 [_Personalized record of the city wander with a wearable device: a pilot study_](/papers/pdf/liang2016personalized.pdf). Liang, Feng and Nakatani, Masashi and Kunze, Kai and Minamizawa, Kouta. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. [Bibtex](/papers/bib/liang2016personalized.bib).  [Mp3 summary](/audio/mp3s/liang2016personalized.mp3). 
@@ -626,7 +647,7 @@ _Design and User Research in AR/VR/MR_. Ryskeldiev, Bektur and Zimmermann, Joell
 _Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)._. Crowley, James L and Kunze, Kai S and Lukowicz, Paul and Schmidt, Albrecht and Crowley, James L and Kunze, Kai and Lukowicz, Paul and Schmidt, Albrecht. Dagstuhl Reports. 2012. [Bibtex](/papers/bib/crowley2012human.bib). 
 
 ***
-[_The opportunity framework and data processing ecosystem for opportunistic activity and context recognition_](/papers/pdf/kurz2011opportunity.pdf). Kurz, Marc and H{\"o}lzl, Gerold and Ferscha, Alois and Calatroni, Alberto and Roggen, Daniel and Tr{\"o}ster, Gerhard and Sagha, Hesam and Chavarriaga, Ricardo and Mill{\'a}n, J del R and Bannach, David and others. International Journal of Sensors, Wireless Communications and Control, Special Issue on Autonomic and Opportunistic Communications. 2011. [Bibtex](/papers/bib/kurz2011opportunity.bib).  [Mp3 summary](/audio/mp3s/kurz2011opportunity.mp3). 
+[_The OPPORTUNITY Framework and Data Processing Ecosystem for Opportunistic Activity and Context Recognition_](/papers/pdf/kurz2011opportunity.pdf). Kurz, Marc and H{\"o}lzl, Gerold and Ferscha, Alois and Calatroni, Alberto and Roggen, Daniel and Tr{\"o}ster, Gerhard and Sagha, Hesam and Chavarriaga, Ricardo and Mill{\'a}n, Jos{\'e} del R. and Bannach, David and Kunze, Kai and Lukowicz, Paul. International Journal of Sensors, Wireless Communications and Control, Special Issue on Autonomic and Opportunistic Communications. 2011. [Bibtex](/papers/bib/kurz2011opportunity.bib).  [Mp3 summary](/audio/mp3s/kurz2011opportunity.mp3). 
 
 ***
 _Does on-body location of a GPS receiver matter?_. Vaitl, Christian and Kunze, Kai and Lukowicz, Paul. Body Sensor Networks (BSN), 2010 International Conference on. 2010. [Bibtex](/papers/bib/vaitl2010does.bib). 
@@ -644,7 +665,7 @@ _Does on-body location of a GPS receiver matter?_. Vaitl, Christian and Kunze, K
 [_The benefit of activity recognition for mobile phone based nursing documentation: A Wizard-of-Oz study_](/papers/pdf/altakouri2010benefit.pdf). Altakouri, Bashar and Kortuem, Gerd and Grunerbl, A and Kunze, Kai and Lukowicz, Paul. Wearable Computers (ISWC), 2010 International Symposium on. 2010. [Bibtex](/papers/bib/altakouri2010benefit.bib).  [Mp3 summary](/audio/mp3s/altakouri2010benefit.mp3). 
 
 ***
-[_OPPORTUNITY: Towards opportunistic activity and context recognition systems_](/papers/pdf/roggen2009opportunity.pdf). Roggen, Daniel and Forster, K and Calatroni, Alberto and Holleczek, Thomas and Fang, Yu and Troster, G and Lukowicz, Paul and Pirkl, Gerald and Bannach, David and Kunze, Kai and others. World of Wireless, Mobile and Multimedia Networks \\& Workshops, 2009. WoWMoM 2009. IEEE International Symposium on a. 2009. [Bibtex](/papers/bib/roggen2009opportunity.bib).  [Mp3 summary](/audio/mp3s/roggen2009opportunity.mp3). 
+[_OPPORTUNITY: Towards opportunistic activity and context recognition systems_](/papers/pdf/roggen2009opportunity.pdf). Roggen, Daniel and Forster, Kilian and Calatroni, Alberto and Holleczek, Thomas and Fang, Yu and Troster, Gerhard and Ferscha, Alois and Holzmann, Clemens and Riener, Andreas and Lukowicz, Paul and Pirkl, Gerald and Bannach, David and Kunze, Kai and Chavarriaga, Ricardo and Millan, Jose del R.. World of Wireless, Mobile and Multimedia Networks \& Workshops, 2009. WoWMoM 2009. IEEE International Symposium on a. 2009. [Bibtex](/papers/bib/roggen2009opportunity.bib).  [Mp3 summary](/audio/mp3s/roggen2009opportunity.mp3). 
 
 ***
 [_Which way am I facing: Inferring horizontal device orientation from an accelerometer signal_](/papers/pdf/kunze2009way.pdf). Kunze, Kai and Lukowicz, Paul and Partridge, Kurt and Begole, Bo. Wearable Computers, 2009. ISWC'09. International Symposium on. 2009. [Bibtex](/papers/bib/kunze2009way.bib).  [Mp3 summary](/audio/mp3s/kunze2009way.mp3). 
