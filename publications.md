@@ -416,6 +416,27 @@ _Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for 
 [_Accelerating Skill Acquisition of Two-Handed Drumming using Pneumatic Artificial Muscles_](/papers/pdf/goto2020accelerating.pdf). Goto, Takashi and Das, Swagata and Wolf, Katrin and Lopes, Pedro and Kurita, Yuichi and Kunze, Kai. Augmented Humans 2020. 2020. [Bibtex](/papers/bib/goto2020accelerating.bib).  [Mp3 summary](/audio/mp3s/goto2020accelerating.mp3). 
 
 ***
+[_Virtual gaze: exploring use of gaze as rich interaction method with virtual agent in interactive virtual reality content_](/papers/pdf/kevin2018virtual.pdf). Kevin, Stevanus and Pai, Yun Suen and Kunze, Kai. Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology. 2018. [Bibtex](/papers/bib/kevin2018virtual.bib). 
+
+***
+[_Hand motion prediction for just-in-time thermo-haptic feedback_](/papers/pdf/chernyshov2018hand.pdf). Chernyshov, George and Ragozin, Kirill and Caremel, Cedric and Kunze, Kai. Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology. 2018. [Bibtex](/papers/bib/chernyshov2018hand.bib). 
+
+***
+[_Flair: Towards a Therapeutic Serious Game for Social Anxiety Disorder_](/papers/pdf/romera2018flair.pdf). Romera Sanchez, Ana Y. and Kunze, Kai. Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers. 2018. [Bibtex](/papers/bib/romera2018flair.bib). 
+
+***
+[_UbiTrain: Leveraging the Physical and Virtual Environment for Ubiquitous Sports Training_](/papers/pdf/pai2018ubitrain.pdf). Pai, Yun Suen and Isogai, Megumi and Kunze, Kai and Nakao, Takuro and Kimata, Hideaki. Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers. 2018. [Bibtex](/papers/bib/pai2018ubitrain.bib). 
+
+***
+[_Piece: Towards Personalized Music Video Annotations Based on the User's Physiological Data_](/papers/pdf/mannschreck2018piece.pdf). Mannschreck, Ryan and Kunze, Kai. Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers. 2018. [Bibtex](/papers/bib/mannschreck2018piece.bib). 
+
+***
+[_Urban Wanderer: Towards Reconnecting with Our Physical Surroundings_](/papers/pdf/lin2018urban.pdf). Lin, Xiaohui and Norlin, Cristian and Inakage, Masa and Pailes-Friedman, Rebeccah and Anneroth, Mikael and Kunze, Kai. Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers. 2018. [Bibtex](/papers/bib/lin2018urban.bib). 
+
+***
+[_Different Languages, Different Questions: Language Versioning in Q\&A_](/papers/pdf/vargo2018different.pdf). Vargo, Andrew W. and Tag, Benjamin and Kunze, Kai and Matsubara, Shigeo. Proceedings of the UK Academy for Information Systems (UKAIS) International Conference. 2018. [Bibtex](/papers/bib/vargo2018different.bib). 
+
+***
 [_Automated data gathering and training tool for personalized" Itchy Nose"_](/papers/pdf/yeo2018automated.pdf). Lee, Juyoung and Yeo, Hui-Shyong and Starner, Thad and Quigley, Aaron and Kunze, Kai and Woo, Woontack. AH'18 Proceedings of the 9th Augmented Human International Conference. 2018. [Bibtex](/papers/bib/yeo2018automated.bib).  [Mp3 summary](/audio/mp3s/yeo2018automated.mp3). 
 
 ***
@@ -473,6 +494,24 @@ _Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for 
 [_Nene: An Interactive Pet Device_](/papers/pdf/julsaksrisakul2017nene.pdf). Julsaksrisakul, Pafan and Chernyshov, George and Nakatani, Masashi and Tag, Benjamin and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/julsaksrisakul2017nene.bib). 
 
 ***
+_Preface of the Section Focused on Superhuman Technology_. Inami, Masahiko and Kajimoto, Hiroyuki and Kunze, Kai and Nanayakkara, Suranga and Seigneur, Jean-Marc and Shinohara, Minoru. Advanced Robotics. 2017. [Bibtex](/papers/bib/inami2017preface.bib). 
+
+***
+[_WAHM -- 4th workshop on ubiquitous technologies to augment the human mind: sharing experiences_](/papers/pdf/clinch2017wahm.pdf). Clinch, Sarah and Dingler, Tilman and Kunze, Kai and ElAgroudy, Passant and Terada, Tsutomu. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/clinch2017wahm.bib). 
+
+***
+[_Facial temperature sensing on smart eyewear for affective computing_](/papers/pdf/tag2017facialtemp.pdf). Tag, Benjamin and Chernyshov, George and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/tag2017facialtemp.bib). 
+
+***
+[_face2faceVR: using AR to assist VR in ubiquitous environment usage_](/papers/pdf/pai2017face2facevr.pdf). Pai, Yun Suen and Isogai, Megumi and Ochi, Daisuke and Kimata, Hideaki and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/pai2017face2facevr.bib). 
+
+***
+_Reading-Life Log as a New Paradigm of Utilizing Character and Document Media_. Kise, Koichi and Omachi, Shinichiro and Uchida, Seiichi and Iwamura, Masakazu and Inami, Masahiko and Kunze, Kai. Human-Harmonized Information Technology, Volume 2. 2017. [Bibtex](/papers/bib/kise2017readinglife.bib). 
+
+***
+[_Beyond VR and AR: Reimagining Experience Sharing and Skill Transfer Towards an Internet of Abilities (Dagstuhl Seminar 17062)_](/papers/pdf/dey2017beyond.pdf). Dey, Anind K. and Häkkilä, Jonna and Henze, Niels and Kunze, Kai. Dagstuhl Reports. 2017. [Bibtex](/papers/bib/dey2017beyond.bib). 
+
+***
 [_Wearable aura: an interactive projection on personal space to enhance communication_](/papers/pdf/zheng2017wearable.pdf). Zheng, Dingding and Lugaresi, Laura and Chernyshov, George and Tag, Benjamin and Inakage, Masa and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/zheng2017wearable.bib).  [Mp3 summary](/audio/mp3s/zheng2017wearable.mp3). 
 
 ***
@@ -500,7 +539,7 @@ _Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for 
 [_IoT 2016_](/papers/pdf/michahelles2017iot.pdf). Michahelles, F and Ilic, A and Kunze, K and Kritzler, M and Schneegass, S. IEEE Pervasive Computing 16 (2). 2017. [Bibtex](/papers/bib/michahelles2017iot.bib). 
 
 ***
-[_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](/papers/bib/masai2017evaluation.bib).  [Mp3 summary](/audio/mp3s/masai2017evaluation.mp3). 
+[_Evaluation of Facial Expression Recognition by a Smart Eyewear for Facial Direction Changes, Repeatability, and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Inami, Masahiko and Sugimoto, Maki. ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](/papers/bib/masai2017evaluation.bib).  [Mp3 summary](/audio/mp3s/masai2017evaluation.mp3). 
 
 ***
 [_Superhuman sports: applying human augmentation to physical exercise_](/papers/pdf/kunze2017superhuman.pdf). Kunze, Kai and Minamizawa, Kouta and Lukosch, Stephan and Inami, Masahiko and Rekimoto, Jun. IEEE Pervasive Computing. 2017. [Bibtex](/papers/bib/kunze2017superhuman.bib).  [Mp3 summary](/audio/mp3s/kunze2017superhuman.mp3). 
@@ -524,7 +563,22 @@ _Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for 
 [_EMS icons: conveying information by analogy to enhance communication through electrical muscle stimulation_](/papers/pdf/dingler2017ems.pdf). Dingler, Tilman and Goto, Takashi and Tag, Benjamin and Kunze, Kai. Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers. 2017. [Bibtex](/papers/bib/dingler2017ems.bib).  [Mp3 summary](/audio/mp3s/dingler2017ems.mp3). 
 
 ***
-[_IN360: A 360-degree-video platform to change students preconceived notions on their career_](/papers/pdf/assilmia2017in360.pdf). Assilmia, F and Pai, YS and Okawa, K and Kunze, K. Turning Teaching Inside Out. 2017. [Bibtex](/papers/bib/assilmia2017in360.bib). 
+[_IN360: A 360-Degree-Video Platform to Change Students Preconceived Notions on Their Career_](/papers/pdf/assilmia2017in360.pdf). Assilmia, Fathima and Pai, Yun Suen and Okawa, Keiko and Kunze, Kai. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2017. [Bibtex](/papers/bib/assilmia2017in360.bib). 
+
+***
+[_WAHM 2016: 3rd workshop on ubiquitous technologies for augmenting the human mind_](/papers/pdf/dingler2016wahm.pdf). Dingler, Tilman and Kunze, Kai and Niforatos, Evangelos and Gurrin, Cathal and Giannopoulos, Ioannis and Dengel, Andreas and Kise, Koichi. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. [Bibtex](/papers/bib/dingler2016wahm.bib). 
+
+***
+_Is It in Your Eyes? Explorations in Using Gaze Cues for Remote Collaboration_. Billinghurst, Mark and Gupta, Kunal and Masai, Katsutoshi and Lee, Youngho and Lee, Gun and Kunze, Kai and Sugimoto, Maki. Collaboration Meets Interactive Spaces. 2016. [Bibtex](/papers/bib/billinghurst2016eyes.bib). 
+
+***
+[_Facial Expression Recognition in Daily Life by Embedded Photo Reflective Sensors on Smart Eyewear_](/papers/pdf/masai2016facial.pdf). Masai, Katsutoshi and Sugiura, Yuta and Ogata, Masa and Kunze, Kai and Inami, Masahiko and Sugimoto, Maki. Proceedings of the 21st International Conference on Intelligent User Interfaces. 2016. [Bibtex](/papers/bib/masai2016facial.bib). 
+
+***
+[_Eyewear Computing -- Augmenting the Human with Head-mounted Wearable Assistants (Dagstuhl Seminar 16042)_](/papers/pdf/bulling2016dagstuhl.pdf). Bulling, Andreas and Cakmakci, Ozan and Kunze, Kai and Rehg, James M.. Dagstuhl Reports. 2016. [Bibtex](/papers/bib/bulling2016dagstuhl.bib). 
+
+***
+[_Demo hour_](/papers/pdf/jeong2016demo.pdf). Jeong, Hayeon and Saakes, Daniel and Lee, Uichin and Esteves, Augusto and Velloso, Eduardo and Bulling, Andreas and Masai, Katsutoshi and Sugiura, Yuta and Ogata, Masa and Kunze, Kai and Inami, Masahiko and Sugimoto, Maki and Rathnayake, Anura and Dias, Tilak. Interactions. 2016. [Bibtex](/papers/bib/jeong2016demo.bib). 
 
 ***
 [_Eye blink as an input modality for a responsive adaptable video system_](/papers/pdf/tag2016eyeblink.pdf). Tag, Benjamin and Shimizu, Junichi and Zhang, Chi and Ohta, Naohisa and Kunze, Kai and Sugiura, Kazunori. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. [Bibtex](/papers/bib/tag2016eyeblink.bib).  [Mp3 summary](/audio/mp3s/tag2016eyeblink.mp3). 
